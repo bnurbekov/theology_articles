@@ -1,6 +1,6 @@
 God is holy and just. As a righteous Judge, He punishes sin. Any sin (such as lying or lustful thoughts) is a violation of His infinite holiness; it provokes His infinite wrath and is therefore punished with eternal death in hell, which is described as the lake of fire, a place where the fire is never quenched, the worm never dies, a place where there will be weeping and gnashing of teeth, outer darkness, and a place of eternal torment where there will be no rest for the worshippers of the beast.
 
-God judges even our thoughts and intentions. It is written: “…everyone who looks at a woman with lustful intent has already committed adultery with her in his heart” (Matthew 5:28). And also: “Everyone who hates his brother is a murderer…” (1 John 3:15). Since we have all sinned (lied, harbored lustful thoughts, and stolen) so many times in our lives, we are all destined to end up in hell.
+God judges even our thoughts and intentions. It is written: “…everyone who looks at a woman with lustful intent has already committed adultery with her in his heart” (Matthew 5:28). And also: “Everyone who hates his brother is a murderer…” (1 John 3:15). Since we have all sinned (lied, harbored lustful thoughts, and stolen) so many times in our lives, we all deserve to end up in hell.
 
 **Is there any hope?**
 
