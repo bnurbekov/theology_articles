@@ -1,3 +1,5 @@
+# Overview of the Reformed Baptist doctrines
+
 # Calvinism
 
 Calvinism is also called the doctrines of grace. It consists of five doctrines known by the acronym TULIP: T stands for Total Depravity, U stands for Unconditional Election, L stands for Limited Atonement, I stands for Irresistible Grace, and P stands for Perseverance of the Saints.
