@@ -1,4 +1,4 @@
-# Overview of the Reformed Baptist doctrines
+# Overview of the primary Reformed Baptist doctrines
 
 ## Calvinism
 
