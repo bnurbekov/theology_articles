@@ -11,6 +11,7 @@ Total depravity says that, on our own, we cannot come to God. The Bible says, "n
 The doctrine of unconditional election states that "God predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will" (Ephesians 1:5, see also Ephesians 1:4). The Arminians say that God looked through the corridors of time and saw who would choose to follow Jesus, which contradicts this verse. This verse says that God predestined us to adoption according to the purpose of His will (Ephesians 1:5). The Bible also says that "it depends not on human will or exertion, but on God, who has mercy" (Romans 9:16).
 
 ### Limited atonement
+The doctrine of the limited atonement states that Christ died for his sheep only: “just as the Father knows me and I know the Father; and I lay down my life for the sheep.” (John 10:15) The sheep are those who believe in him: “My sheep hear my voice, and I know them, and they follow me.” (John 10:27)
 
 ### Irresistible Grace
 The doctrine of irresistible grace says that we cannot ultimately resist God throughout our lives. Romans 8:30 says, "And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified." And in the Gospel of John, it says that "all that the Father gives me will come to me" (John 6:37). These verses show that all whom the Father chose or predestined to be saved will be saved.
