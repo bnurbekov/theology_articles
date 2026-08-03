@@ -1,5 +1,17 @@
 # Overview of the primary Reformed Baptist doctrines
 
+## Five Solas
+
+### Sola Gratia (grace alone)
+
+### Sola Fide (faith alone)
+
+### Solus Christus (Christ alone)
+
+### Sola Scriptura (scripture alone)
+
+### Soli Deo Gloria (glory of God alone)
+
 ## Calvinism
 
 Calvinism is also called the doctrines of grace. It consists of five doctrines known by the acronym TULIP: T stands for Total Depravity, U stands for Unconditional Election, L stands for Limited Atonement, I stands for Irresistible Grace, and P stands for Perseverance of the Saints.
