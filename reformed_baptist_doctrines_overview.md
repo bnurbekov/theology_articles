@@ -22,10 +22,10 @@ The doctrine of perseverance of the saints says that those who are truly saved w
 Covenant theology studies doctrines about covenants. Covenants contain two types of blessings: conditional and unconditional.
 
 ### Conditional blessings 
-These types of blessings are conditional upon obedience: “And all these blessings shall come upon you and overtake you, if you obey the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
+Conditional blessings are conditional upon obedience: “And all these blessings shall come upon you and overtake you, if you obey the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
 
 ### Unconditional blessings
-These types of blessings are unconditional: “to the praise of his glorious grace, with which he has blessed us in the Beloved.”(Ephesians 1:6) New covenant contains unconditional blessings. 
+Unconditional blessings are unconditional: “to the praise of his glorious grace, with which he has blessed us in the Beloved.”(Ephesians 1:6) New covenant contains unconditional blessings. 
 
 
 ## Amillennialism
