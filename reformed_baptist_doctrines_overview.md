@@ -36,6 +36,12 @@ The doctrine of irresistible grace says that we cannot ultimately resist God thr
 ### Perseverance of the Saints
 The doctrine of perseverance of the saints says that those who are truly saved will never fall away from the faith. In the Gospel of John, Jesus Himself says, "no one will snatch them out of my hand" (John 10:28; see also John 10:29).
 
+## Double predestination 
+Before the foundation of the world God predestined some to salvation and some to reprobation: “What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath **prepared for destruction,** in order to make known the riches of his glory for vessels of mercy, which **he has prepared beforehand for glory—**“ (Romans 9:22-23)
+
+## Lordship salvation
+Those who truly believe in Jesus Christ will submit to Him as Lord and keep his commandments: “If you love me, you will keep my commandments.” (John 14:15) 
+
 ## Revised Baptist Covenant Theology
 Covenant theology studies doctrines about covenants. Covenants contain two types of blessings: conditional and unconditional.
 
