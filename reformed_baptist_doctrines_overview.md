@@ -2,6 +2,9 @@
 
 ## Gospel
 
+### Trinity
+God is one being: ““Hear, O Israel: The LORD our God, the LORD is one.” (Deuteronomy 6:4) But He exists in three distinct persons of the Father, the Son, the Holy Spirit: “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,” (Matthew 28:19) The Son of God referred to Himself as one being with the Father: “I and the Father are one.”” (John 10:30)
+
 ### Substitutionary atonement
 Lord Jesus Christ atoned for the sins of the believers by dying in their place: “But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.” (Isaiah 53:5)
 
