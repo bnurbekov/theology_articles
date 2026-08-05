@@ -1,9 +1,14 @@
 # Overview of the primary Reformed Baptist doctrines
 
-## Gospel
+## Nature of God
 
 ### Trinity
 God is one being: ““Hear, O Israel: The LORD our God, the LORD is one.” (Deuteronomy 6:4) But He exists in three distinct persons of the Father, the Son, the Holy Spirit: “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,” (Matthew 28:19) The Son of God referred to Himself as one being with the Father: “I and the Father are one.”” (John 10:30)
+
+### Person of Christ
+Jesus Christ is truly man and truly God: “who, though he was in the **form of God,** did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in **human form,** he humbled himself by becoming obedient to the point of death, even death on a cross.” (Philippians 2:6-8)
+
+## Gospel
 
 ### Substitutionary atonement
 Lord Jesus Christ atoned for the sins of the believers by dying in their place: “But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.” (Isaiah 53:5)
