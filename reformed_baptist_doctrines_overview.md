@@ -40,7 +40,7 @@ The doctrine of perseverance of the saints says that those who are truly saved w
 Before the foundation of the world God predestined some to salvation and some to reprobation: “What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath **prepared for destruction,** in order to make known the riches of his glory for vessels of mercy, which **he has prepared beforehand for glory—**“ (Romans 9:22-23)
 
 ## Lordship salvation
-Those who truly believe in Jesus Christ will submit to Him as Lord and keep his commandments: “If you love me, you will keep my commandments.” (John 14:15) 
+Those who truly believe in Jesus Christ will  necessarily submit to Him as Lord (meaning that they will obey Him): “If you love me, you will keep my commandments.” (John 14:15) ”But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works.” (James 2:18)
 
 ## Revised Baptist Covenant Theology
 Covenant theology studies doctrines about covenants. Covenants contain two types of blessings: conditional and unconditional.
