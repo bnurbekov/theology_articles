@@ -69,7 +69,7 @@ Unconditional blessings are unconditional: “to the praise of his glorious grac
 
 
 ## Amillennialism
-This doctrine says that there is no future millennial reign of Christ. The word "millennial" means a thousand-year period. The prefix "a-" means not. Putting this together, amillennialism means that there is no future thousand-year reign of Christ. When the Bible speaks of the thousand years of Christ, it denotes the period between His first coming and His second coming. The thousand years are not literal; they are symbolic. The Bible says:
+This doctrine says that there is no future millennial reign of Christ. The word "millennial" means a thousand-year period. The prefix "a-" means not. Putting this together, amillennialism means that there is no future thousand-year reign of Christ, but there is a present thousand-year reign of Christ. When the Bible speaks of the thousand years of Christ, it denotes the period between His first coming and His second coming. The thousand years are not literal; they are symbolic. The Bible says:
 
 "Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years." (Revelation 20:4–6)
 
