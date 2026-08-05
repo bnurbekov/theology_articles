@@ -3,7 +3,7 @@
 ## Gospel
 
 ### Substitutionary atonement
-
+Lord Jesus Christ atoned for the sins of the believers by dying in their place: “But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.” (Isaiah 53:5)
 
 ### Great exchange 
 Sins of all the believers were counted to Jesus Christ and His righteousness is counted to all the believers: ”For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.” (2 Corinthians 5:21)
