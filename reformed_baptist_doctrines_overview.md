@@ -15,7 +15,7 @@ Salvation is through Christ alone: “Jesus said to him, “I am the way, and th
 Salvation is according to the Scripture alone: “I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us **not to go beyond what is written,** that none of you may be puffed up in favor of one against another.” (1 Corinthians 4:6)
 
 ### Soli Deo Gloria (glory of God alone)
-Salvation is to the glory of God alone: “not a result of works, so that <mark>no one may boast</mark>.” (Ephesians 2:9) 
+Salvation is to the glory of God alone: “not a result of works, so that **no one may boast**.” (Ephesians 2:9) 
 
 ## Calvinism
 
