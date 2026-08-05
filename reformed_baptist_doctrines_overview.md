@@ -21,7 +21,7 @@ Sins of all the believers were counted to Jesus Christ and His righteousness is 
 ### Twofold obedience of Christ
 
 #### Passive obedience
-Christ’s good works of suffering for the sins of the believers on the cross and throughout His life is called passive obedience (from Latin word passio which means “passion, suffer, endure”): “And being found in human form, he humbled himself by **becoming obedient to the point of death,** even death on a cross.” (Philippians 2:8) Christ did not only suffer on the cross for our sins, but throughout his life as well: “He was despised and rejected by men, a man of **sorrows and acquainted with grief;** and as one from whom men hide their faces he was despised, and we esteemed him not.” (Isaiah 53:5)
+Christ’s good works of suffering for the sins of the believers on the cross and throughout His life is called passive obedience (from Latin word passio which means “passion, suffer, endure”): “And being found in human form, he humbled himself by **becoming obedient to the point of death,** even death on a cross.” (Philippians 2:8) Christ did not only suffer on the cross for our sins, but throughout his life as well: “He was despised and rejected by men, a man of **sorrows and acquainted with grief;** and as one from whom men hide their faces he was despised, and we esteemed him not.” (Isaiah 53:3)
 
 #### Active obedience 
 Christ’s obedience to God’s law (keeping commandments of God) is called active obedience: “John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.” (Matthew 3:14-15)
@@ -72,7 +72,7 @@ Those who truly believe in Jesus Christ will  necessarily submit to Him as Lord 
 Covenant theology studies doctrines about covenants. Covenants contain two types of blessings: conditional and unconditional.
 
 ### Conditional blessings 
-Conditional blessings are conditional upon obedience: “And all these blessings shall come upon you and overtake you, if you obey the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
+Conditional blessings are conditional upon obedience: “And all these blessings shall come upon you and overtake you, if you obey the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of Israel were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
 
 ### Unconditional blessings
 Unconditional blessings are unconditional: “to the praise of his glorious grace, with which he has blessed us in the Beloved.”(Ephesians 1:6) New covenant contains unconditional blessings. 
