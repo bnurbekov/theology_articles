@@ -3,19 +3,19 @@
 ## Five Solas
 
 ### Sola Gratia (grace alone)
-Salvation is by grace alone: ”For ==by grace== you have been saved through faith. And this is not your own doing; it is the gift of God,” (Ephesians 2:8) Grace means undeserved favor of God.
+Salvation is by grace alone: ”For <mark>by grace</mark> you have been saved through faith. And this is not your own doing; it is the gift of God,” (Ephesians 2:8) Grace means undeserved favor of God.
 
 ### Sola Fide (faith alone)
-Salvation is through faith alone: ”For by grace you have been saved ==through faith.== And this is not your own doing; it is the gift of God,” (Ephesians 2:8)
+Salvation is through faith alone: ”For by grace you have been saved <mark>through faith.</mark> And this is not your own doing; it is the gift of God,” (Ephesians 2:8)
 
 ### Solus Christus (Christ alone)
-Salvation is through Christ alone: “Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father ==except through me==.“ (John 14:6)
+Salvation is through Christ alone: “Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father <mark>except through me</mark>.“ (John 14:6)
 
 ### Sola Scriptura (scripture alone)
-Salvation is according to the Scripture alone: “I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us ==not to go beyond what is written,== that none of you may be puffed up in favor of one against another.” (1 Corinthians 4:6)
+Salvation is according to the Scripture alone: “I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us <mark>not to go beyond what is written,</mark> that none of you may be puffed up in favor of one against another.” (1 Corinthians 4:6)
 
 ### Soli Deo Gloria (glory of God alone)
-Salvation is to the glory of God alone: “not a result of works, so that ==no one may boast==.” (Ephesians 2:9) 
+Salvation is to the glory of God alone: “not a result of works, so that <mark>no one may boast</mark>.” (Ephesians 2:9) 
 
 ## Calvinism
 
