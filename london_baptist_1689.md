@@ -246,7 +246,7 @@
 
 **4.** Although the Gospel be the only outward means, of revealing Christ, and saving Grace; and is, as such, abundantly sufficient thereunto; yet that men who are dead in Trespasses, may be born again, Quickned or Regenerated; there is moreover necessary, an effectual, insuperable work of the Holy Spirit, upon the whole Soul, for the producing in them a new spiritual Life; without which no other means will effect their Conversion unto God.
 
-## Chapter 21: Of Christian Liberty and Liberty of Consciencey
+## Chapter 21: Of Christian Liberty and Liberty of Conscience
 
 **1.** The Liberty which Christ hath purchased for Believers under the Gospel, consists in their freedom from the guilt of Sin, the condemning wrath of God, the Rigour and Curse of the Law; and in their being delivered from this present evil World, Bondage to Satan, and Dominion of Sin; from the Evil of Afflictions; the Fear, and Sting of Death, the Victory of the Grave, and Everlasting Damnation; as also in their free access to God; and their yielding Obedience unto him not out of a slavish fear, but a Child-like love, and willing mind.
 
@@ -292,7 +292,7 @@
 
 **3.** Civil Magistrates being set up by God, for the ends aforesaid; subjection in all lawful things commanded by them, ought to be yeilded by us, in the Lord; not only for wrath but for Conscience sake; and we ought to make supplications and prayers for Kings, and all that are in Authority, that under them we may live a quiet and peaceable life, in all godliness and honesty.
 
-## Chapter 25: Of the Civil Magistrate
+## Chapter 25: Of Marriage 
 
 **1.** Marriage is to be between one Man and one Woman; neither is it lawful for any man to have more then one Wife, nor for any Woman to have more then one Husband at the same time.
 
