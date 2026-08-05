@@ -1,5 +1,21 @@
 # Overview of the primary Reformed Baptist doctrines
 
+## Gospel
+
+### Substitutionary atonement
+
+
+### Great exchange 
+Sins of all the believers were counted to Jesus Christ and His righteousness is counted to all the believers: ”For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.” (2 Corinthians 5:21)
+
+### Twofold obedience of Christ
+
+#### Passive obedience
+Christ’s good works of suffering for the sins of the believers on the cross and throughout His life is called passive obedience (from Latin word passio which means “passion, suffer, endure”): “And being found in human form, he humbled himself by **becoming obedient to the point of death,** even death on a cross.” (Philippians 2:8) Christ did not only suffer on the cross for our sins, but throughout his life as well: “He was despised and rejected by men, a man of **sorrows and acquainted with grief;** and as one from whom men hide their faces he was despised, and we esteemed him not.” (Isaiah 53:5)
+
+#### Active obedience 
+Christ’s obedience to God’s law (keeping commandments of God) is called active obedience: “John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.” (Matthew 3:14-15)
+
 ## Five Solas
 
 ### Sola Gratia (grace alone)
