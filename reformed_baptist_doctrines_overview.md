@@ -8,7 +8,7 @@ God is one being: ““Hear, O Israel: The LORD our God, the LORD is one.” (D
 ## Christology
 
 ### Person of Christ
-Jesus Christ is truly man and truly God: “who, though he was in the **form of God,** did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in **human form,** he humbled himself by becoming obedient to the point of death, even death on a cross.” (Philippians 2:6-8) The original word used for form is “morphe” which denotes “essential nature made visible” (BibleHub Topical Lexicon).
+Jesus Christ is truly man and truly God: “who, though he was in the **form of God,** did not count equality with God a thing to be grasped, but emptied himself, by taking the **form of a servant,** being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.” (Philippians 2:6-8) The original word used for form is “morphe” which denotes “essential nature made visible” (BibleHub Topical Lexicon).
 
 ## Gospel
 
