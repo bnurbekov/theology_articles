@@ -24,7 +24,7 @@ Sins of all the believers were counted to Jesus Christ and His righteousness is 
 Christ’s good works of suffering for the sins of the believers on the cross and throughout His life is called passive obedience (from Latin word passio which means “passion, suffer, endure”): “And being found in human form, he humbled himself by **becoming obedient to the point of death,** even death on a cross.” (Philippians 2:8) Christ did not only suffer on the cross for our sins, but throughout his life as well: “He was despised and rejected by men, a man of **sorrows and acquainted with grief;** and as one from whom men hide their faces he was despised, and we esteemed him not.” (Isaiah 53:3)
 
 #### Active obedience 
-Christ’s obedience to God’s law (keeping commandments of God) is called active obedience: “John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.” (Matthew 3:14-15)
+Christ’s obedience to God’s law (keeping commandments of God) is called active obedience: “John would have prevented him, saying, “I need to be baptized by you, and do you come to me?” But Jesus answered him, “Let it be so now, for thus it is fitting for us to **fulfill all righteousness**.” Then he consented.” (Matthew 3:14-15)
 
 ## Five Solas
 
@@ -72,15 +72,15 @@ Those who truly believe in Jesus Christ will  necessarily submit to Him as Lord 
 Covenant theology studies doctrines about covenants. Covenants contain two types of blessings: conditional and unconditional.
 
 ### Conditional blessings 
-Conditional blessings are conditional upon obedience: “And all these blessings shall come upon you and overtake you, if you obey the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of Israel were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
+Conditional blessings are conditional upon obedience: “And all these **blessings** shall come upon you and overtake you, **if you obey** the voice of the LORD your God.” (Deuteronomy 28:2). In other words, if the people of Israel were to obey God, then they would receive these blessings. Old Covenant contained conditional blessings.
 
 ### Unconditional blessings
-Unconditional blessings are unconditional: “to the praise of his glorious grace, with which he has blessed us in the Beloved.”(Ephesians 1:6) New covenant contains unconditional blessings. 
+Unconditional blessings are unconditional: “to the praise of his glorious **grace,** with which he has **blessed** us in the Beloved.”(Ephesians 1:6) New covenant contains unconditional blessings. 
 
 
 ## Amillennialism
 This doctrine says that there is no future millennial reign of Christ. The word "millennial" means a thousand-year period. The prefix "a-" means not. Putting this together, amillennialism means that there is no future thousand-year reign of Christ, but there is a present thousand-year reign of Christ. When the Bible speaks of the thousand years of Christ, it denotes the period between His first coming and His second coming. The thousand years are not literal; they are symbolic. The Bible says:
 
-"Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years." (Revelation 20:4–6)
+"Then I saw thrones, and **seated on them were those to whom the authority to judge was committed.** Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. Blessed and holy is the one who shares **in the first resurrection!** Over such **the second death has no power,** but they will be priests of God and of Christ, and they will reign with him for a thousand years." (Revelation 20:4–6)
 
 This passage describes those who believe in Jesus Christ as reigning with Christ already (Ephesians 2:6) and came to life (first resurrection), which is the new birth. Those who are born again will not go to hell, which is the second death (Revelation 20:14; Revelation 21:8).
