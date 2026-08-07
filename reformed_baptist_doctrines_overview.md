@@ -48,7 +48,7 @@ Salvation is to the glory of God alone: “not a result of works, so that **no o
 Calvinism is also called the doctrines of grace. It consists of five doctrines known by the acronym TULIP: T stands for Total Depravity, U stands for Unconditional Election, L stands for Limited Atonement, I stands for Irresistible Grace, and P stands for Perseverance of the Saints.
 
 ### Total Depravity
-Total depravity says that, on our own, we cannot come to God. The Bible says, "no one understands; no one seeks for God" (Romans 3:11). Also, the Bible says that "no one can come to me unless the Father who sent me draws him" (John 6:44).
+Total depravity says that our whole being is affected with sin, and as a result, on our own, we cannot come to God. There is no island of righteousness in us that allows to come to faith on our own. The Bible says, "no one understands; no one seeks for God" (Romans 3:11). Also, the Bible says that "no one can come to me unless the Father who sent me draws him" (John 6:44). Note, that this doctrine does not mean that we are as sinful as we can be (utter depravity).
 
 ### Unconditional Election
 The doctrine of unconditional election states that "God predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will" (Ephesians 1:5, see also Ephesians 1:4). The Arminians say that God looked through the corridors of time and saw who would choose to follow Jesus, which contradicts this verse. This verse says that God predestined us to adoption according to the purpose of His will (Ephesians 1:5). The Bible also says that "it depends not on human will or exertion, but on God, who has mercy" (Romans 9:16).
