@@ -1,5 +1,7 @@
 # 1689 London Baptist Confession
 
+> The original confession contains some doctrinal errors and needs to be corrected. Therefore, please test every doctrinal statement and only hold fast to what is good: "but test everything; hold fast what is good." (1 Thessalonians 5:21)
+
 *1689 Baptist Confession, Second London Baptist Confession*
 
 **Year:** 1677  
