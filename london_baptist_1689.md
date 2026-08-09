@@ -238,7 +238,7 @@
 
 **7.** Neither are the forementioned uses of the Law contrary to the Grace of the Gospel; but do sweetly comply with it; the Spirit of Christ subduing and inabling the Will of man, to do that freely and chearfully, which the will of God revealed in the Law, requireth to be done.
 
-## Chapter 20: Of Christian Liberty and Liberty of Conscience
+## Chapter 20: Of the Gospel, and of the Extent of the Grace thereof
 
 **1.** The Covenant of Works being broken by Sin, and made unprofitable unto Life; God was pleased to give forth the promise of Christ, the Seed of the Woman, as the means of calling the Elect, and begetting in them Faith and Repentance; in this Promise, the Gospel, as to the substance of it, was revealed, and therein Effectual, for the Conversion and Salvation of Sinners.
 
