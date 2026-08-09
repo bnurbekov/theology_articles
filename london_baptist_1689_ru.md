@@ -238,30 +238,6 @@
 
 **3.** Откровение Евангелия грешникам, совершавшееся в разное время и различными способами — с приложением обетований и повелений о требуемом послушании, обращенных к народам и отдельным людям, которым оно было даровано, — всецело зависит от суверенной воли и благого изволения Божьего. Оно не обусловлено — в силу какого-либо обетования — надлежащим использованием людьми своих естественных способностей (на основе полученного ими общего света, без самого Евангелия), ибо никто никогда этого не делал и сделать не в состоянии. Посему во все века проповедь Евангелия даровалась людям и народам — в отношении ее широты или ограниченности — весьма разнообразно, согласно совету воли Божьей.
 
-**4.** Although the Gospel be the only outward means, of revealing Christ, and saving Grace; and is, as such, abundantly sufficient thereunto; yet that men who are dead in Trespasses, may be born again, Quickned or Regenerated; there is moreover necessary, an effectual, insuperable work of the Holy Spirit, upon the whole Soul, for the producing in them a new spiritual Life; without which no other means will effect their Conversion unto God.
-
-## Chapter 21: Of Christian Liberty and Liberty of Conscience
-
-**1.** The Liberty which Christ hath purchased for Believers under the Gospel, consists in their freedom from the guilt of Sin, the condemning wrath of God, the Rigour and Curse of the Law; and in their being delivered from this present evil World, Bondage to Satan, and Dominion of Sin; from the Evil of Afflictions; the Fear, and Sting of Death, the Victory of the Grave, and Everlasting Damnation; as also in their free access to God; and their yielding Obedience unto him not out of a slavish fear, but a Child-like love, and willing mind.
-
-**2.** God alone is Lord of the Conscience, and hath left it free from the Doctrines and Commandments of men, which are in any thing contrary to his Word, or not contained in it. So that to Believe such Doctrines, or obey such Commands out of Conscience, is to betray true liberty of Conscience; and the requiring of an implicit Faith, and absolute and blind Obedience, is to destroy Liberty of Conscience, and Reason also.
-
-**3.** They who upon pretence of Christian Liberty do practice any sin, or cherish any sinfull lust; as they do thereby pervert the main design of the Grace of the Gospel, to their own Destruction; so they wholy destroy the end of Christian Liberty, which is, that being delivered out of the hands of all our Enemies we might serve the Lord without fear in Holiness, and Righteousness before him, all the days of our Life.
-
-## Chapter 22: Of Religious Worship and the Sabbath Day
-
-**1.** The light of Nature shews that there is a God, who hath Lordship, and Soveraigntye over all; is just, good, and doth good unto all; and is therefore to be feared, loved, praised, called upon, trusted in, and served, with all the Heart, and all the Soul, and with all the Might. But the acceptable way of Worshipping the true God, is instituted by himself; and so limited by his own revealed will, that he may not be Worshipped according to the imaginations, and devices of Men, or the suggestions of Satan, under any visible representations, or any other way, not prescribed in the Holy Scriptures.
-
-**2.** Religious Worship is to be given to God the Father, Son, and Holy Spirit, and to him alone; not to Angels, Saints, or any other Creatures; and since the fall, not without a Mediator, nor in the Mediation of any other but Christ alone.
-
-**3.** Prayer with thanksgiving, being one special part of natural worship, is by God required of all men. But that it may be accepted, it is to be made in the Name of the Son, by the help of the Spirit, according to his Will; with understanding, reverence, humility, fervency, faith, love, and perseverance; and when with others, in a known tongue.
-
-**4.** Prayer is to be made for things lawful, and for all sorts of men living, or that shall live hereafter; but not for the dead, nor for those of whom it may be known that they have sinned the sin unto death.
-
-**5.** The reading of the Scriptures, Preaching, and hearing the word of God, teaching and admonishing one another in Psalms, Hymns and Spiritual songs, singing with grace in our Hearts to the Lord; as also the Administration of Baptism, and the Lords Supper are all parts of Religious worship of God, to be performed in obedience to him, with understanding, faith, reverence, and godly fear; moreover solemn humiliation with fastings; and thanksgiving upon special occasions, ought to be used in an holy and religious manner.
-
-**6.** Neither Prayer, nor any other part of Religious worship, is now under the Gospel tied unto, or made more acceptable by, any place in which it is performed, or towards which it is directed; but God is to be worshipped every where in Spirit, and in truth; as in private families daily, and in secret each one by himself, so more solemnly in the publick Assemblies, which are not carelessely, nor wilfuly, to be neglected, or forsaken, when God by his word, or providence calleth thereunto.
-
 **4.** Хотя Евангелие является единственным внешним средством откровения Христа и спасительной благодати и в этом качестве вполне для того достаточно, все же для того, чтобы люди, мертвые по своим преступлениям, могли возродиться, оживотвориться или обновиться, необходимо также действенное и непреодолимое воздействие Святого Духа на всю душу, производящее в них новую духовную жизнь; без этого никакие иные средства не смогут совершить их обращение к Богу.
 
 ## Глава 21: О христианской свободе и свободе совести
