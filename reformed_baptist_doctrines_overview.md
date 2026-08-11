@@ -38,7 +38,7 @@ Salvation is through faith alone: ”For by grace you have been saved **through 
 Salvation is through Christ alone: “Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father **except through me**.“ (John 14:6)
 
 ### Sola Scriptura (scripture alone)
-Salvation is according to the Scripture alone: “I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us **not to go beyond what is written,** that none of you may be puffed up in favor of one against another.” (1 Corinthians 4:6)
+Knowledge needed for salvation is provided by Scripture alone: “I have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us **not to go beyond what is written,** that none of you may be puffed up in favor of one against another.” (1 Corinthians 4:6)
 
 ### Soli Deo Gloria (glory of God alone)
 Salvation is to the glory of God alone: “not a result of works, so that **no one may boast**.” (Ephesians 2:9) 
