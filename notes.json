@@ -1,7 +1,7 @@
 {
   "document": "london_baptist_1689.md",
   "source": "https://raw.githubusercontent.com/bnurbekov/theology_articles/main/london_baptist_1689.md",
-  "generated": "2026-08-12T11:45:34.033Z",
+  "generated": "2026-08-12T12:37:49.358Z",
   "schema": "lbc-annotations/1",
   "annotations": [
     {
@@ -90,7 +90,7 @@
     },
     {
       "id": "nmif4noa",
-      "kind": "note",
+      "kind": "edit",
       "chapter": 23,
       "paragraph": 1,
       "ref": "london_baptist_1689.md#ch23-p1..p5",
@@ -105,7 +105,12 @@
         "end_exact": "A Vow which is not to be made to any Creature, but to God alone, is to be made and performed with all Religious care, and faithfulness: But Popish Monastical Vows, of perpetual single life, professed poverty, and regular obedience, are so far from being degrees of higher perfection, that they are superstitious, and sinful snares, in which no Christian may intangle himself.",
         "end_suffix": "",
         "end_hash": "e05b4137",
-        "preview": "Chapter 23. Of Lawful Oaths and Vows 23.1A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solem"
+        "preview": "Chapter 23. Of Lawful Oaths and Vows 23.1A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solem",
+        "full_text": "Chapter 23. Of Lawful Oaths and Vows 23.1A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solem"
+      },
+      "proposed_edit": {
+        "from": "Chapter 23. Of Lawful Oaths and Vows 23.1A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solem",
+        "to": ""
       },
       "note": "Lord Jesus Christ told us to not take an oath at all: ââAgain you have heard that it was said to those of old, âYou shall not swear falsely, but shall perform to the Lord what you have sworn.â But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply âYesâ or âNoâ; anything more than this comes from evil.â (Matthew 5:33-37)",
       "tag": "doctrine",
@@ -135,7 +140,7 @@
     },
     {
       "id": "ncdmlatp",
-      "kind": "note",
+      "kind": "edit",
       "chapter": 22,
       "paragraph": 7,
       "ref": "london_baptist_1689.md#ch22-p7..p8",
@@ -150,7 +155,12 @@
         "end_exact": "The Sabbath is then kept holy unto the Lord, when men after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all the day, from their own works, words, and thoughts, about their worldly employment, and recreations, but also are taken up the whole time in the publick and private exercises of his worship, and in the duties of necessity and mercy.",
         "end_suffix": "",
         "end_hash": "c7ad31cd",
-        "preview": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-mora"
+        "preview": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-mora",
+        "full_text": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-mora"
+      },
+      "proposed_edit": {
+        "from": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-mora",
+        "to": ""
       },
       "note": "Christ is our Sabbath: âCome to me, all who labor and are heavy laden, and I will give you rest.â (Matthew 11:28) Also, see Hebrew 4:3. The command to keep the Sabbath in the law pointed to Him: âTherefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath.â (Colossians 2:16)",
       "tag": "doctrine",
