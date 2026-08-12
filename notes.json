@@ -1,0 +1,71 @@
+{
+  "document": "london_baptist_1689.md",
+  "source": "https://raw.githubusercontent.com/bnurbekov/theology_articles/main/london_baptist_1689.md",
+  "generated": "2026-08-12T10:07:30.149Z",
+  "schema": "lbc-annotations/1",
+  "annotations": [
+    {
+      "id": "nsmceql9",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 4,
+      "ref": "london_baptist_1689.md#ch26-p4",
+      "target": {
+        "exact": "is that Antichrist",
+        "prefix": "ny sense be head thereof, but ",
+        "suffix": ", that Man of sin, and Son of ",
+        "hash": "22bd11eb"
+      },
+      "proposed_edit": {
+        "from": "is that Antichrist",
+        "to": "is an antichrist, but not the final Antichrist. The final Antichrist will be revealed before the coming of the Lord Jesus Christ. The final Antichrist is"
+      },
+      "note": "Error",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "nzweq1cv",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 9,
+      "ref": "london_baptist_1689.md#ch26-p9",
+      "target": {
+        "exact": "chosen thereunto by the common suffrage of the Church it self; and ",
+        "prefix": ", in a Church, is, that he be ",
+        "suffix": "Solemnly set apart by Fasting ",
+        "hash": "805a303"
+      },
+      "proposed_edit": {
+        "from": "chosen thereunto by the common suffrage of the Church it self; and ",
+        "to": ""
+      },
+      "note": "The elders are appointed by an elder: Titus 1:5",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "ngw3unbp",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 9,
+      "ref": "london_baptist_1689.md#ch26-p9",
+      "target": {
+        "exact": "chosen by the like suffrage, and ",
+        "prefix": "n; And of a Deacon that he be ",
+        "suffix": "set apart by Prayer, and the l",
+        "hash": "efd67a98"
+      },
+      "proposed_edit": {
+        "from": "chosen by the like suffrage, and ",
+        "to": "chosen by the like suffrage, and "
+      },
+      "note": "Elders are appointed by an elder: Titus 1:5",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    }
+  ]
+}
