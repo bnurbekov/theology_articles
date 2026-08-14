@@ -123,11 +123,3 @@ of the homepage rather than in the ordered article list, regardless of
 whether it's mentioned in `ORDER`. `gospel_1.md`/`gospel_2.md` are
 ordinary articles despite the shared name prefix — only the bare
 `gospel[_lang].md` files get the banner treatment.
-
-## Publishing changes
-
-Push changes here as usual, then trigger a rebuild of the site itself —
-this repo being up to date on GitHub doesn't republish anything on its
-own. From the `commonplace` repo: run its **Deploy to Cloudflare Pages**
-GitHub Action (Actions tab, or `gh workflow run deploy.yml`), or
-`wrangler pages deploy` by hand. See that repo's README for details.
