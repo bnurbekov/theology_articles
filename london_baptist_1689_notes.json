@@ -1,0 +1,234 @@
+{
+  "document": "london_baptist_1689.md",
+  "source": "https://raw.githubusercontent.com/bnurbekov/theology_articles/main/london_baptist_1689.md",
+  "generated": "2026-08-12T13:05:38.680Z",
+  "schema": "lbc-annotations/1",
+  "annotations": [
+    {
+      "id": "nsmceql9",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 4,
+      "ref": "london_baptist_1689.md#ch26-p4",
+      "target": {
+        "exact": "is that Antichrist",
+        "prefix": "ny sense be head thereof, but ",
+        "suffix": ", that Man of sin, and Son of ",
+        "hash": "22bd11eb"
+      },
+      "proposed_edit": {
+        "from": "is that Antichrist",
+        "to": "is an antichrist, but not the final Antichrist. The final Antichrist will be revealed before the coming of the Lord Jesus Christ. The final Antichrist is"
+      },
+      "note": "Error",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "nzweq1cv",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 9,
+      "ref": "london_baptist_1689.md#ch26-p9",
+      "target": {
+        "exact": "chosen thereunto by the common suffrage of the Church it self; and ",
+        "prefix": ", in a Church, is, that he be ",
+        "suffix": "Solemnly set apart by Fasting ",
+        "hash": "805a303"
+      },
+      "proposed_edit": {
+        "from": "chosen thereunto by the common suffrage of the Church it self; and ",
+        "to": ""
+      },
+      "note": "The elders are appointed by an elder: Titus 1:5",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "ngw3unbp",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 9,
+      "ref": "london_baptist_1689.md#ch26-p9",
+      "target": {
+        "exact": "chosen by the like suffrage, and ",
+        "prefix": "n; And of a Deacon that he be ",
+        "suffix": "set apart by Prayer, and the l",
+        "hash": "efd67a98"
+      },
+      "proposed_edit": {
+        "from": "chosen by the like suffrage, and ",
+        "to": "chosen by the like suffrage, and "
+      },
+      "note": "Elders are appointed by an elder: Titus 1:5",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "nh6co913",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch26-p3",
+      "target": {
+        "exact": ", but Synagogues of Satan",
+        "prefix": "o become no Churches of Christ",
+        "suffix": "; nevertheless Christ always h",
+        "hash": "36b7722d"
+      },
+      "proposed_edit": {
+        "from": ", but Synagogues of Satan",
+        "to": ""
+      },
+      "note": "synagÅgÄs is used for Jewish synagogues. ekklÃ©sia is used for churches (1 Corinthians 14:33)",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "nmif4noa",
+      "kind": "edit",
+      "chapter": 23,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch23-p1..p5",
+      "target": {
+        "exact": "A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solemnly calleth God to witness what he sweareth; and to judge him according to the Truth or falseness thereof.",
+        "prefix": "",
+        "suffix": "",
+        "hash": "a1cfae37"
+      },
+      "range": {
+        "paragraph_end": 5,
+        "end_exact": "A Vow which is not to be made to any Creature, but to God alone, is to be made and performed with all Religious care, and faithfulness: But Popish Monastical Vows, of perpetual single life, professed poverty, and regular obedience, are so far from being degrees of higher perfection, that they are superstitious, and sinful snares, in which no Christian may intangle himself.",
+        "end_suffix": "",
+        "end_hash": "e05b4137",
+        "preview": "Chapter 23. Of Lawful Oaths and Vows 23.1A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solem",
+        "full_text": "A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solemnly calleth God to witness what he sweareth; and to judge him according to the Truth or falseness thereof.\n\nThe Name of God only is that by which men ought to swear; and therein it is to be used, with all Holy Fear and reverence, therefore to swear vainly or rashly by that glorious, and dreadful name; or to swear at all by any other thing, is sinful and to be abhorred; yet as in matter of weight and moment for confirmation of truth, and ending all strife, an Oath is warranted by the Word of God; so a lawful Oath being imposed, by lawful Authority, in such matters, ought to be taken.\n\nWhosoever taketh an Oath warranted by the Word of God, ought duely to consider the weightiness of so solemn an act; and therein to avouch nothing, but what he knoweth to be the truth; for that by rash, false, and vain Oaths the Lord is provoked, and for them this Land mournes.\n\nAn Oath is to be taken in the plain, and common sense of the words; without equivocation, or mental reservation.\n\nA Vow which is not to be made to any Creature, but to God alone, is to be made and performed with all Religious care, and faithfulness: But Popish Monastical Vows, of perpetual single life, professed poverty, and regular obedience, are so far from being degrees of higher perfection, that they are superstitious, and sinful snares, in which no Christian may intangle himself."
+      },
+      "proposed_edit": {
+        "from": "A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solemnly calleth God to witness what he sweareth; and to judge him according to the Truth or falseness thereof.\n\nThe Name of God only is that by which men ought to swear; and therein it is to be used, with all Holy Fear and reverence, therefore to swear vainly or rashly by that glorious, and dreadful name; or to swear at all by any other thing, is sinful and to be abhorred; yet as in matter of weight and moment for confirmation of truth, and ending all strife, an Oath is warranted by the Word of God; so a lawful Oath being imposed, by lawful Authority, in such matters, ought to be taken.\n\nWhosoever taketh an Oath warranted by the Word of God, ought duely to consider the weightiness of so solemn an act; and therein to avouch nothing, but what he knoweth to be the truth; for that by rash, false, and vain Oaths the Lord is provoked, and for them this Land mournes.\n\nAn Oath is to be taken in the plain, and common sense of the words; without equivocation, or mental reservation.\n\nA Vow which is not to be made to any Creature, but to God alone, is to be made and performed with all Religious care, and faithfulness: But Popish Monastical Vows, of perpetual single life, professed poverty, and regular obedience, are so far from being degrees of higher perfection, that they are superstitious, and sinful snares, in which no Christian may intangle himself.",
+        "to": ""
+      },
+      "note": "Lord Jesus Christ told us to not take an oath at all: ââAgain you have heard that it was said to those of old, âYou shall not swear falsely, but shall perform to the Lord what you have sworn.â But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply âYesâ or âNoâ; anything more than this comes from evil.â (Matthew 5:33-37)",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "npvykezv",
+      "kind": "edit",
+      "chapter": 24,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch24-p2",
+      "target": {
+        "exact": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
+        "prefix": "ach Kingdome, and Commonwealth",
+        "suffix": "",
+        "hash": "1bdde979"
+      },
+      "proposed_edit": {
+        "from": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
+        "to": ""
+      },
+      "note": "The Lord Jesus Christ told us: âThen Jesus said to him, âPut your sword back into its place. For all who take the sword will perish by the sword.ââ (Matthew 26:52)",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "ncdmlatp",
+      "kind": "edit",
+      "chapter": 22,
+      "paragraph": 7,
+      "ref": "london_baptist_1689.md#ch22-p7..p8",
+      "target": {
+        "exact": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-moral, and perpetual Commandement, binding all men, in all Ages, he hath particularly appointed one day in seven for a Sabbath to be kept holy unto him, which from the beginning of the World to the Resurrection of Christ, was the last day of the week; and from the resurrection of Christ, was changed into the first day of the week which is called the Lords day; and is to be continued to the end of the World, as the Christian Sabbath; the observation of the last day of the week being abolished.",
+        "prefix": "",
+        "suffix": "",
+        "hash": "4d42e395"
+      },
+      "range": {
+        "paragraph_end": 8,
+        "end_exact": "The Sabbath is then kept holy unto the Lord, when men after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all the day, from their own works, words, and thoughts, about their worldly employment, and recreations, but also are taken up the whole time in the publick and private exercises of his worship, and in the duties of necessity and mercy.",
+        "end_suffix": "",
+        "end_hash": "c7ad31cd",
+        "preview": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-mora",
+        "full_text": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-moral, and perpetual Commandement, binding all men, in all Ages, he hath particularly appointed one day in seven for a Sabbath to be kept holy unto him, which from the beginning of the World to the Resurrection of Christ, was the last day of the week; and from the resurrection of Christ, was changed into the first day of the week which is called the Lords day; and is to be continued to the end of the World, as the Christian Sabbath; the observation of the last day of the week being abolished.\n\nThe Sabbath is then kept holy unto the Lord, when men after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all the day, from their own works, words, and thoughts, about their worldly employment, and recreations, but also are taken up the whole time in the publick and private exercises of his worship, and in the duties of necessity and mercy."
+      },
+      "proposed_edit": {
+        "from": "As it is of the Law of nature, that in general a proportion of time by Gods appointment, be set a part for the Worship of God; so by his Word in a positive-moral, and perpetual Commandement, binding all men, in all Ages, he hath particularly appointed one day in seven for a Sabbath to be kept holy unto him, which from the beginning of the World to the Resurrection of Christ, was the last day of the week; and from the resurrection of Christ, was changed into the first day of the week which is called the Lords day; and is to be continued to the end of the World, as the Christian Sabbath; the observation of the last day of the week being abolished.\n\nThe Sabbath is then kept holy unto the Lord, when men after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all the day, from their own works, words, and thoughts, about their worldly employment, and recreations, but also are taken up the whole time in the publick and private exercises of his worship, and in the duties of necessity and mercy.",
+        "to": ""
+      },
+      "note": "Christ is our Sabbath: âCome to me, all who labor and are heavy laden, and I will give you rest.â (Matthew 11:28) Also, see Hebrew 4:3. The command to keep the Sabbath in the law pointed to Him: âTherefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath.â (Colossians 2:16)",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "noozbwma",
+      "kind": "edit",
+      "chapter": 21,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch21-p2",
+      "target": {
+        "exact": "God alone is Lord of the Conscience, and hath left it free from the Doctrines and Commandments of men, which are in any thing contrary to his Word, or not contained in it. So that to Believe such Doctrines, or obey such Commands out of Conscience, is to betray true liberty of Conscience; and the requiring of an implicit Faith, and absolute and blind Obedience, is to destroy Liberty of Conscience, and Reason also.",
+        "prefix": "",
+        "suffix": "",
+        "hash": "c1298320"
+      },
+      "proposed_edit": {
+        "from": "God alone is Lord of the Conscience, and hath left it free from the Doctrines and Commandments of men, which are in any thing contrary to his Word, or not contained in it. So that to Believe such Doctrines, or obey such Commands out of Conscience, is to betray true liberty of Conscience; and the requiring of an implicit Faith, and absolute and blind Obedience, is to destroy Liberty of Conscience, and Reason also.",
+        "to": ""
+      },
+      "note": "Not found in the Scripture.",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "ns6dbcbv",
+      "kind": "edit",
+      "chapter": 20,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch20-p1",
+      "target": {
+        "exact": "Covenant of Works",
+        "prefix": "The ",
+        "suffix": " being broken by Sin, and made",
+        "hash": "9b143dce"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Works",
+        "to": "Covenant with Adam"
+      },
+      "note": "Covenant of Works is not found in the Scripture.",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    },
+    {
+      "id": "nhg6k1qz",
+      "kind": "edit",
+      "chapter": 7,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch7-p2",
+      "target": {
+        "exact": "Covenant of Grace",
+        "prefix": "it pleased the Lord to make a ",
+        "suffix": " wherein he freely offereth un",
+        "hash": "99f4117a"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Grace",
+        "to": "New Covenant"
+      },
+      "note": "Covenant of Grace is not found in the Scripture.",
+      "tag": "doctrine",
+      "status": "ok",
+      "created": "2026-08-12"
+    }
+  ]
+}
