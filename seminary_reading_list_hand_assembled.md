@@ -73,6 +73,10 @@
 
 1. **Church History Outside of the Times of Writing the Canon**
 
+   * *A Short History of the Baptists* by Henry C. Vedder
+
+   * *Bible History and Brief Outline of Church History* by Volrath Vogt
+
    * *History of the Christian Church* by Philip Schaff
 
 2. **Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
