@@ -42,7 +42,7 @@
 
    * **OT (General):** *General Introduction to the Old Testament: The Canon* by William Henry Green
 
-   * **OT (Special):** *An Introduction to the Old Testament* by E. J. Young *(Alternative: Gleason Archer, A Survey of Old Testament Introduction)*
+   * **OT (Special):** *Gleason Archer, A Survey of Old Testament Introduction*
 
 2. **Textual Criticism**
 
