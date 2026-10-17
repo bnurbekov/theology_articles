@@ -27,3 +27,56 @@ Things that seem to be borderline (can be studied quickly or given an overview)
     2. Hebrew: An Open Introduction to Biblical Hebrew by ninjaaron on GitHub 
 4. Apologetics: Cornelius Van Til — Defending the Faith
 5. Evangelism and missions: William Carey, An Enquiry...; Andrew Fuller, The Gospel Worthy of All Acceptation
+
+*Disciplines of theology*
+
+The list, following Schaff's 1872 address and the contents of his 1892 Propaedeutic:
+
+1. Exegetical (Biblical) theology
+
+	•	Sacred philology
+	•	Hebrew and the other Semitic languages
+	•	Hellenistic and New Testament Greek
+	•	Biblical archaeology
+	•	Biblical geography
+	•	Natural history of the Bible
+	•	Archaeology proper
+	•	Isagogic (historical-critical introduction to the Bible)
+	•	Biblical criticism: textual criticism and higher (historical) criticism
+	•	Canonic (the theory of the canon)
+	•	Special isagogic (authorship of each book)
+	•	Hermeneutic and exegesis
+	•	Philological and historical exegesis
+	•	Theological exegesis
+	•	Practical and homiletical exegesis
+	•	Exegesis of the Old and New Testaments
+	•	History of exegesis
+	•	Biblical theology (the Bible's doctrine and ethics, organized systematically)
+
+2. Historical theology
+
+	•	Church history (general, by period)
+	•	History of missions and persecutions
+	•	History of doctrines and heresies
+	•	History of government and discipline
+	•	History of worship and ceremonies
+	•	History of Christian charity and philanthropy
+
+3. Systematic theology
+
+	•	Apologetics
+	•	Dogmatics
+	•	Symbolics (comparative dogmatics, the study of creeds)
+	•	Polemics
+	•	Irenics
+	•	Christian ethics
+	•	Statistics (the present condition of the churches)
+
+4. Practical theology
+
+	•	Homiletics
+	•	Catechetics
+	•	Poimenics (pastoral theology)
+	•	Liturgics
+	•	Theory of church government
+	•	Evangelistic
