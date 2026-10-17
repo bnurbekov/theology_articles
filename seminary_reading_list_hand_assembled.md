@@ -1,32 +1,83 @@
-Things that seem to be extra
-1. church history outside of the times of writing the Canon: Philip Schaff, History of the Christian Church
-2. mastery of the language - all that is needed is basic knowledge enough to use tools
-    1. Greek: A. T. Robertson, A Grammar of the Greek New Testament in the Light of Historical Research
-    2. Hebrew: Gesenius, Hebrew Grammar
+# Theological Study List
 
-Things that are important
-1. Reading the word with good commentaries - Matthew Poole commentaries 
-2. Reading the 1689 confession
-3. Systematic theology - Systematic theology by Berkhof 
-4. Biblical theology - Biblical theology by Vos
-5. Ethics - Christianity and Ethics: A Handbook of Christian Ethics by Archibald Alexander (also possibly Calvin’s Institutes)
-6. Hermeneutics - principles of Biblical interpretation by Berkhof
-7. Homiletics - The Art of Prophesying by William Perkins
-8. Pastoral theology - Hezekiah Harvey — The Pastor: His Qualifications and Duties
+## Things That Are Important
 
-Things that seem to be borderline (can be studied quickly or given an overview)
-1. General and special introduction: 
-    1. General and special intro to NT: Berkhof, Introduction to the New Testament
-    2. General introduction to OT: Green, General Introduction: The Canon
-    3. Special introduction to OT: 
-2. Textual criticism: 
-    1. OT: William Henry Green, General Introduction to the Old Testament: The Text
-    2. NT: B. B. Warfield, An Introduction to the Textual Criticism of the New Testament
-3. Basics of biblical languages 
-    1. Greek: J. Gresham Machen — New Testament Greek for Beginners
-    2. Hebrew: An Open Introduction to Biblical Hebrew by ninjaaron on GitHub 
-4. Apologetics: Cornelius Van Til — Defending the Faith
-5. Evangelism and missions: William Carey, An Enquiry...; Andrew Fuller, The Gospel Worthy of All Acceptation
+1. **Reading the Word with Good Commentaries**
+
+   * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole
+
+2. **Confessions**
+
+   * The 1689 Baptist Confession of Faith
+
+3. **Systematic Theology**
+
+   * *Systematic Theology* by Louis Berkhof
+
+4. **Biblical Theology**
+
+   * *Biblical Theology: Old and New Testaments* by Geerhardus Vos
+
+5. **Ethics**
+
+   * *Christianity and Ethics: A Handbook of Christian Ethics* by Archibald Alexander *(also possibly Calvin’s Institutes)*
+
+6. **Hermeneutics**
+
+   * *Principles of Biblical Interpretation* by Louis Berkhof
+
+7. **Homiletics**
+
+   * *The Art of Prophesying* by William Perkins
+
+8. **Pastoral Theology**
+
+   * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
+
+## Things That Seem to Be Borderline *(Can be studied quickly or given an overview)*
+
+1. **General and Special Introduction**
+
+   * **NT (General & Special):** *Introduction to the New Testament* by Louis Berkhof
+
+   * **OT (General):** *General Introduction to the Old Testament: The Canon* by William Henry Green
+
+   * **OT (Special):** *An Introduction to the Old Testament* by E. J. Young *(Alternative: Gleason Archer, A Survey of Old Testament Introduction)*
+
+2. **Textual Criticism**
+
+   * **OT:** *General Introduction to the Old Testament: The Text* by William Henry Green
+
+   * **NT:** *An Introduction to the Textual Criticism of the New Testament* by B. B. Warfield
+
+3. **Basics of Biblical Languages**
+
+   * **Greek:** *New Testament Greek for Beginners* by J. Gresham Machen
+
+   * **Hebrew:** *An Open Introduction to Biblical Hebrew* by ninjaaron (GitHub)
+
+4. **Apologetics**
+
+   * *The Defense of the Faith* by Cornelius Van Til
+
+5. **Evangelism and Missions**
+
+   * *An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens* by William Carey
+
+   * *The Gospel Worthy of All Acceptation* by Andrew Fuller
+
+## Things That Seem to Be Extra
+
+1. **Church History Outside of the Times of Writing the Canon**
+
+   * *History of the Christian Church* by Philip Schaff
+
+2. **Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
+
+   * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson
+
+   * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley)
+
 
 # Divisions of Theology (after Philip Schaff)
 
