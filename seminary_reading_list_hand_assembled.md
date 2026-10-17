@@ -17,6 +17,9 @@
 4. **Biblical Theology**
 
    * *Biblical Theology: Old and New Testaments* by Geerhardus Vos
+   
+   * *A Discourse of the Covenants That God Made with Men before the Law* by Nehemiah Coxe
+
 
 5. **Ethics**
 
