@@ -28,55 +28,66 @@ Things that seem to be borderline (can be studied quickly or given an overview)
 4. Apologetics: Cornelius Van Til — Defending the Faith
 5. Evangelism and missions: William Carey, An Enquiry...; Andrew Fuller, The Gospel Worthy of All Acceptation
 
-*Disciplines of theology*
+# Divisions of Theology (after Philip Schaff)
 
-The list, following Schaff's 1872 address and the contents of his 1892 Propaedeutic:
+Based on Schaff, "The Theology for Our Age and Country" (*Presbyterian Quarterly and Princeton Review*, Jan. 1872, pp. 30-33) and *Theological Propaedeutic* (1892).
 
-1. Exegetical (Biblical) theology
+Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in its origin and authentic records; Historical = in its past history; Systematic = in its present state; Practical = in its aim and action for the future.
 
-	•	Sacred philology
-	•	Hebrew and the other Semitic languages
-	•	Hellenistic and New Testament Greek
-	•	Biblical archaeology
-	•	Biblical geography
-	•	Natural history of the Bible
-	•	Archaeology proper
-	•	Isagogic (historical-critical introduction to the Bible)
-	•	Biblical criticism: textual criticism and higher (historical) criticism
-	•	Canonic (the theory of the canon)
-	•	Special isagogic (authorship of each book)
-	•	Hermeneutic and exegesis
-	•	Philological and historical exegesis
-	•	Theological exegesis
-	•	Practical and homiletical exegesis
-	•	Exegesis of the Old and New Testaments
-	•	History of exegesis
-	•	Biblical theology (the Bible's doctrine and ethics, organized systematically)
+## 1. Exegetical (Biblical) Theology
 
-2. Historical theology
+- Sacred philology
+  - Hebrew and the other Semitic languages
+  - Hellenistic and New Testament Greek
+- Biblical archaeology
+  - Biblical geography
+  - Natural history of the Bible
+  - Archaeology proper
+- Isagogic (historical-critical introduction to the Bible)
+  - Biblical criticism
+    - Textual criticism
+    - Higher (historical) criticism
+  - Canonic (theory of the canon)
+  - Special isagogic (authorship of each book)
+- Hermeneutic and exegesis
+  - Philological and historical exegesis
+  - Theological exegesis
+  - Practical and homiletical exegesis
+  - Exegesis of the Old and New Testaments
+  - History of exegesis
+- Biblical theology (the Bible's doctrine and ethics, organized systematically)
 
-	•	Church history (general, by period)
-	•	History of missions and persecutions
-	•	History of doctrines and heresies
-	•	History of government and discipline
-	•	History of worship and ceremonies
-	•	History of Christian charity and philanthropy
+## 2. Historical Theology
 
-3. Systematic theology
+- Church history (general, by period)
+- History of missions and persecutions
+- History of doctrines and heresies
+- History of government and discipline
+- History of worship and ceremonies
+- History of Christian charity and philanthropy
+- Patristic (placement is my inference)
 
-	•	Apologetics
-	•	Dogmatics
-	•	Symbolics (comparative dogmatics, the study of creeds)
-	•	Polemics
-	•	Irenics
-	•	Christian ethics
-	•	Statistics (the present condition of the churches)
+## 3. Systematic Theology
 
-4. Practical theology
+- Apologetics
+- Dogmatics
+- Symbolics (comparative dogmatics, the study of creeds)
+  - Polemics
+  - Irenics
+- Christian ethics
+- Statistics (present condition of the churches)
 
-	•	Homiletics
-	•	Catechetics
-	•	Poimenics (pastoral theology)
-	•	Liturgics
-	•	Theory of church government
-	•	Evangelistic
+## 4. Practical Theology
+
+- Homiletics
+- Catechetics
+- Poimenics (pastoral theology)
+- Liturgics
+- Theory of church government
+- Evangelistic (placement is my inference)
+
+## Notes
+
+- Schaff names Patristic and Evangelistic in the Propaedeutic preface but does not state their branch; the placements above are inferred.
+- Polemics and Irenics are nested under Symbolics because Schaff says Symbolics now includes both.
+- Free texts: [1872 address](https://www.logcollegepress.com/s/Schaff-Philip-The-Theology-for-Our-Age-and-Country.pdf); [Propaedeutic, Part I](https://www.logcollegepress.com/s/Schaff-Philip-Theological-Propdeutic-Vol-1.pdf)
