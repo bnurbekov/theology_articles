@@ -1,5 +1,7 @@
 # Theological Study List
 
+## Books
+
 **Commentaries**
 
    * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole [Use as a reference (don't study in its entirety)]
@@ -79,7 +81,7 @@
 
    * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley) [Use as a reference (don't study in its entirety)]
 
-# Download links
+## Download links
 
 - [Matthew Poole — Annotations Upon the Holy Bible](https://www.studylight.org/commentaries/eng/mpc/matthew-1.html) — Online text (complete EPUB not verified)
 - [The 1689 Baptist Confession of Faith](https://www.monergism.com/london-baptist-confession-faith-1689-ebook)
@@ -107,7 +109,7 @@
 - [Henry C. Vedder — A Short History of the Baptists](https://www.gutenberg.org/ebooks/) — Search Project Gutenberg (verified direct EPUB link not established)
 - [John Calvin — Institutes of the Christian Religion, Volume 1](https://www.gutenberg.org/ebooks/45001) — EPUB confirmed for Volume 1 (complete two-volume set not verified)
 
-# Reading an EPUB Book in Your Own Language
+## Appendix: Reading an EPUB Book in Your Own Language
 
 Many of the books above are available as EPUB files. [EPUB Reader](https://epub-reader.batyrlan94.workers.dev/) is a free tool that opens an EPUB in your phone or computer browser and helps you r[...]
 
@@ -141,7 +143,7 @@ Many of the books above are available as EPUB files. [EPUB Reader](https://epub-
 - Translating sends the text you translate to your browser's or Google's translation service.
 
 
-# Divisions of Theology (after Philip Schaff)
+## Appendix: Divisions of Theology (after Philip Schaff)
 
 Based on Schaff, "The Theology for Our Age and Country" (*Presbyterian Quarterly and Princeton Review*, Jan. 1872, pp. 30-33) and *Theological Propaedeutic* (1892).
 
