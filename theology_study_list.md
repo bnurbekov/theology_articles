@@ -83,33 +83,33 @@ This theological study list aims to approximate the material covered in an MDiv 
 
    * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley) [Use as a reference (don't study in its entirety)]
 
-## Download links
+## Download Links
 
-- [Matthew Poole — Annotations Upon the Holy Bible](https://www.studylight.org/commentaries/eng/mpc/matthew-1.html) — Online text (complete EPUB not verified)
-- [The 1689 Baptist Confession of Faith](https://www.monergism.com/london-baptist-confession-faith-1689-ebook)
-- [Louis Berkhof — Systematic Theology](https://www.monergism.com/systematic-theology-ebook)
-- [Geerhardus Vos — Biblical Theology: Old and New Testaments](https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook)
-- [Nehemiah Coxe — A Discourse of the Covenants](https://www.monergism.com/discourse-covenants-ebook)
-- [Archibald Alexander — Christianity and Ethics: A Handbook of Christian Ethics](https://www.gutenberg.org/ebooks/22105)
-- [Louis Berkhof — Principles of Biblical Interpretation (Sacred Hermeneutics)](https://www.monergism.com/principles-biblical-interpretation-sacred-hermeneutics-ebook)
-- [William Perkins — The Art of Prophesying](https://www.monergism.com/art-prophesying-ebook)
-- [Hezekiah Harvey — The Pastor: His Qualifications and Duties](https://www.gutenberg.org/ebooks/61170)
-- [Louis Berkhof — Introduction to the New Testament](https://www.monergism.com/introduction-new-testament-ebook?page=1)
-- [William Henry Green — General Introduction to the Old Testament: The Canon](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_(IA_cu31924029277618).pdf) — Scan (EPUB not verified)
-- [Gleason Archer — A Survey of Old Testament Introduction](https://books.google.com/books?id=-8PYAAAAMAAJ) — Free (EPUB not verified)
-- [William Henry Green — General Introduction to the Old Testament: The Text](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_(IA_cu31924029277667).pdf) — Scan (EPUB not verified)
-- [B. B. Warfield — An Introduction to the Textual Criticism of the New Testament](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament) — (EPUB option listed; access may be restricted)
-- [J. Gresham Machen — New Testament Greek for Beginners](https://archive.org/details/newtestamentgree00mach) — (EPUB option listed)
-- [An Open Introduction to Biblical Hebrew](https://github.com/ninjaaron/hebrew-book) — Source available (downloadable EPUB not verified)
-- [William Carey — An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens](https://www.gutenberg.org/ebooks/11449)
-- [Andrew Fuller — The Gospel Worthy of All Acceptation](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
-- [Cornelius Van Til — Defending the Faith](https://www.monergism.com/defending-faith-ebook)
-- [Volrath Vogt — Bible History and Brief Outline of Church History](https://www.gutenberg.org/ebooks/71231)
-- [Philip Schaff — History of the Christian Church](https://www.ccel.org/index/format/epub)
-- [A. T. Robertson — A Grammar of the Greek New Testament in the Light of Historical Research](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research) — (EPUB option listed; access may be restricted)
-- [Gesenius — Hebrew Grammar, revised by A. E. Cowley](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar) — (EPUB option listed; access may be restricted)
-- [Henry C. Vedder — A Short History of the Baptists](https://www.gutenberg.org/ebooks/) — Search Project Gutenberg (verified direct EPUB link not established)
-- [John Calvin — Institutes of the Christian Religion, Volume 1](https://www.gutenberg.org/ebooks/45001) — EPUB confirmed for Volume 1 (complete two-volume set not verified)
+- **Matthew Poole —** **_Annotations Upon the Holy Bible_** — [Monergism author page](https://www.monergism.com/authorsspeakers/matthew-poole)
+- **The 1689 Baptist Confession of Faith** — [Monergism download page](https://www.monergism.com/london-baptist-confession-faith-1689-ebook). Open the page and choose an available format.
+- **Louis Berkhof —** **_Systematic Theology_** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/systematic-theology-ebook)
+- **Geerhardus Vos —** **_Biblical Theology: Old and New Testaments_** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook)
+- **Nehemiah Coxe —** **_A Discourse of the Covenants_** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/discourse-covenants-ebook)
+- **Archibald Alexander —** **_Christianity and Ethics: A Handbook of Christian Ethics_** — [Direct EPUB download](https://www.gutenberg.org/ebooks/22105.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/22105)
+- **Louis Berkhof —** **_Principles of Biblical Interpretation (Sacred Hermeneutics)_** — [Monergism download page](https://www.monergism.com/principles-biblical-interpretation-sacred-hermeneutics-ebook)
+- **William Perkins —** **_The Art of Prophesying_** — [Monergism download page](https://www.monergism.com/art-prophesying-ebook)
+- **Hezekiah Harvey —** **_The Pastor: His Qualifications and Duties_** — [Direct EPUB download](https://www.gutenberg.org/ebooks/61170.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/61170)
+- **Louis Berkhof —** **_Introduction to the New Testament_** — [Monergism download page](https://www.monergism.com/introduction-new-testament-ebook). The page lists EPUB, MOBI, HTML, and PDF formats.
+- **William Henry Green —** **_General Introduction to the Old Testament: The Canon_** — [Wikimedia Commons scan/PDF](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_%28IA_cu31924029277618%29.pdf). **Format:** Scan/PDF; a complete EPUB has not been verified.
+- **William Henry Green —** **_General Introduction to the Old Testament: The Text_** — [Wikimedia Commons scan/PDF](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_%28IA_cu31924029277667%29.pdf). **Format:** Scan/PDF; a complete EPUB has not been verified.
+- **B. B. Warfield —** **_An Introduction to the Textual Criticism of the New Testament_** — [Internet Archive/Open Library record](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament). **Access note:** Download options may depend on the edition and borrowing availability. An EPUB is not guaranteed.
+- **J. Gresham Machen —** **_New Testament Greek for Beginners_** — [Internet Archive edition page](https://archive.org/details/newtestamentgree00mach). **Access note:** Check the available download options; an unrestricted EPUB has not been independently confirmed.
+- **_An Open Introduction to Biblical Hebrew_** — [Project repository and source files](https://github.com/ninjaaron/hebrew-book). **Format:** Source code and online materials; a current, ready-to-download EPUB has not been verified. Consult the repository’s current instructions.
+- **William Carey —** **_An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens_** — [Direct EPUB download](https://www.gutenberg.org/ebooks/11449.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/11449)
+- **Andrew Fuller —** **_The Gospel Worthy of All Acceptation_** **(modernized edition)** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
+- **Cornelius Van Til —** **_Defending the Faith_** — [Monergism EPUB page](https://www.monergism.com/content/defending-faith-epub)
+- **Volrath Vogt —** **_Bible History and Brief Outline of Church History_** — [Direct EPUB download](https://www.gutenberg.org/ebooks/71231.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/71231)
+- **Philip Schaff —** **_History of the Christian Church_** — [CCEL work page and volume links](https://www.ccel.org/s/schaff/history/home.html) · [Example volume with EPUB and other formats](https://ccel.org/ccel/schaff/hcc1.html). This is a multivolume work; download the relevant volumes rather than assuming a single EPUB contains the entire set.
+- **A. T. Robertson —** **_A Grammar of the Greek New Testament in the Light of Historical Research_** — [Open Library/Internet Archive record](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research). **Access note:** Downloadable formats may vary by edition. Use the scan or online edition if an EPUB is unavailable.
+- **Gesenius —** **_Hebrew Grammar_****, revised by E. A. Cowley** — [Open Library record](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar). **Access note:** Downloadable formats may depend on the edition and borrowing availability. An unrestricted EPUB is not guaranteed.
+- **John Calvin —** **_Institutes of the Christian Religion_** — [Monergism download page](https://www.monergism.com/institutes-christian-religion-ebook)
+- **George Foot Moore —** **_Literature of the Old Testament_** — [Project Gutenberg book page](https://www.gutenberg.org/ebooks/40173)
+- **Henry C. Vedder —** **_A Short History of the Baptists_** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
 
 ## Reading an EPUB Book in Your Own Language
 
