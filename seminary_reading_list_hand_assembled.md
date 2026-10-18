@@ -2,7 +2,7 @@
 
 **Commentaries**
 
-   * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole
+   * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole [Use as a reference (don't study in it's entirety)]
 
 **Confessions**
 
@@ -75,9 +75,9 @@
 
 **Mastery of the Language**
 
-   * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson
+   * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson [Use as a reference (don't study in it's entirety)]
 
-   * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley)
+   * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley) [Use as a reference (don't study in it's entirety)]
 
 # Download links
 
