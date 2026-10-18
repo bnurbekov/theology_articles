@@ -65,7 +65,7 @@
 
    * *The Gospel Worthy of All Acceptation* by Andrew Fuller
 
-**Church History Outside of the Times of Writing the Canon**
+**Church History**
 
    * *A Short History of the Baptists* by Henry C. Vedder
 
