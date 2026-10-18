@@ -1,7 +1,5 @@
 # Theological Study List
 
-## Things That Are Important
-
 1. **Reading the Word with Good Commentaries**
 
    * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole
@@ -37,8 +35,6 @@
 
    * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
 
-## Things That Seem to Be Borderline *(Can be studied quickly or given an overview)*
-
 1. **General and Special Introduction**
 
    * **NT (General & Special):** *Introduction to the New Testament* by Louis Berkhof
@@ -69,9 +65,7 @@
 
    * *The Gospel Worthy of All Acceptation* by Andrew Fuller
 
-## Things That Seem to Be Extra
-
-1. **Church History Outside of the Times of Writing the Canon**
+6. **Church History Outside of the Times of Writing the Canon**
 
    * *A Short History of the Baptists* by Henry C. Vedder
 
@@ -79,11 +73,39 @@
 
    * *History of the Christian Church* by Philip Schaff
 
-2. **Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
+7. **Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
 
    * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson
 
    * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley)
+
+# Download links
+
+- [Matthew Poole — Annotations Upon the Holy Bible](https://www.studylight.org/commentaries/eng/mpc/matthew-1.html) — Online text (complete EPUB not verified)
+- [The 1689 Baptist Confession of Faith](https://www.monergism.com/london-baptist-confession-faith-1689-ebook)
+- [Louis Berkhof — Systematic Theology](https://www.monergism.com/systematic-theology-ebook)
+- [Geerhardus Vos — Biblical Theology: Old and New Testaments](https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook)
+- [Nehemiah Coxe — A Discourse of the Covenants](https://www.monergism.com/discourse-covenants-ebook)
+- [Archibald Alexander — Christianity and Ethics: A Handbook of Christian Ethics](https://www.gutenberg.org/ebooks/22105)
+- [Louis Berkhof — Principles of Biblical Interpretation (Sacred Hermeneutics)](https://www.monergism.com/principles-biblical-interpretation-sacred-hermeneutics-ebook)
+- [William Perkins — The Art of Prophesying](https://www.monergism.com/art-prophesying-ebook)
+- [Hezekiah Harvey — The Pastor: His Qualifications and Duties](https://www.gutenberg.org/ebooks/61170)
+- [Louis Berkhof — Introduction to the New Testament](https://www.monergism.com/introduction-new-testament-ebook?page=1)
+- [William Henry Green — General Introduction to the Old Testament: The Canon](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_(IA_cu31924029277618).pdf) — Scan (EPUB not verified)
+- [Gleason Archer — A Survey of Old Testament Introduction](https://books.google.com/books?id=-8PYAAAAMAAJ) — Free (EPUB not verified)
+- [William Henry Green — General Introduction to the Old Testament: The Text](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_(IA_cu31924029277667).pdf) — Scan (EPUB not verified)
+- [B. B. Warfield — An Introduction to the Textual Criticism of the New Testament](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament) — (EPUB option listed; access may be restricted)
+- [J. Gresham Machen — New Testament Greek for Beginners](https://archive.org/details/newtestamentgree00mach) — (EPUB option listed)
+- [An Open Introduction to Biblical Hebrew](https://github.com/ninjaaron/hebrew-book) — Source available (downloadable EPUB not verified)
+- [William Carey — An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens](https://www.gutenberg.org/ebooks/11449)
+- [Andrew Fuller — The Gospel Worthy of All Acceptation](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
+- [Cornelius Van Til — Defending the Faith](https://www.monergism.com/defending-faith-ebook)
+- [Volrath Vogt — Bible History and Brief Outline of Church History](https://www.gutenberg.org/ebooks/71231)
+- [Philip Schaff — History of the Christian Church](https://www.ccel.org/index/format/epub)
+- [A. T. Robertson — A Grammar of the Greek New Testament in the Light of Historical Research](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research) — (EPUB option listed; access may be restricted)
+- [Gesenius — Hebrew Grammar, revised by A. E. Cowley](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar) — (EPUB option listed; access may be restricted)
+- [Henry C. Vedder — A Short History of the Baptists](https://www.gutenberg.org/ebooks/) — Search Project Gutenberg (verified direct EPUB link not established)
+- [John Calvin — Institutes of the Christian Religion, Volume 1](https://www.gutenberg.org/ebooks/45001) — EPUB confirmed for Volume 1 (complete two-volume set not verified)
 
 # Reading an EPUB Book in Your Own Language
 
