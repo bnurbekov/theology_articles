@@ -85,6 +85,39 @@
 
    * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley)
 
+# Reading an EPUB Book in Your Own Language
+
+Many of the books above are available as EPUB files. [EPUB Reader](https://epub-reader.batyrlan94.workers.dev/) is a free tool that opens an EPUB in your phone or computer browser and helps you read it in Kazakh, Russian, Arabic, Spanish, Turkish, English, or another language. There is nothing to install and no account. The book is opened on your own device and is not uploaded anywhere.
+
+1. **Open the reader**
+   - Go to https://epub-reader.batyrlan94.workers.dev/ in your browser.
+   - Choose the language you want to read in. You can change it later.
+
+2. **Open your book**
+   - Tap *Choose an EPUB book* and pick the file from your phone or computer.
+   - Books protected by DRM (for example, many store-bought books) cannot be opened.
+   - The book is remembered on that device. Next time, tap it under *Continue reading*. You can turn this off in *Settings*, and each saved book has a *Remove* button (tap twice).
+
+3. **Move around**
+   - *Next* and *Previous* at the bottom turn the page. You can also swipe left or right.
+   - The *Contents* button (top left) jumps to a chapter. The same menu has *Search the book* and *Bookmarks*.
+   - Footnote links open inside the book. Tap *Back to where I was* to return.
+   - The reader remembers where you stopped.
+
+4. **Make it comfortable**
+   - Open *Settings* (top right) for text size, light or dark theme, font, line spacing, and margins.
+
+5. **Translate while you read**
+   - *Easiest: let your browser do it.* Tap *Translate this page*, or *How to translate on my phone* for steps that match your device. In general, use your browser's own Translate option (Chrome: menu → Translate; Safari: the *aA* button → Translate), then choose your language. Menu names vary by browser and version.
+   - *Fallback: Google Translate, one passage at a time.* If your browser will not translate, tap *Not working? Use Google Translate instead*. For each passage, tap *Copy passage*, open Google Translate, paste, read, then tap *Next*.
+   - To go back to the original text, tap *Show original English*.
+
+**Notes**
+- *(My caveat)* This tool cannot force your browser to translate. Whether browser translation works depends on your browser, device, and language. The Google fallback works anywhere you can copy and paste.
+- Machine translation is a reading aid, not a substitute for the original. For theological terms especially, check important passages against the English.
+- Your reading position, bookmarks, and saved books stay in your browser on that device. Some browsers, especially Safari, clear this after a while, in which case choose the file again. *Settings → Clear saved settings…* erases everything.
+- Translating sends the text you translate to your browser's or Google's translation service.
+
 
 # Divisions of Theology (after Philip Schaff)
 
