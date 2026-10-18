@@ -67,6 +67,10 @@ This theological study list aims to approximate the material covered in an MDiv 
 
    * *The Gospel Worthy of All Acceptation* by Andrew Fuller
 
+**Church Polity and Ecclesiology**
+
+  * *The Glory of a True Church, and Its Discipline Displayed* by Benjamin Keach 
+
 **Church History**
 
    * *A Short History of the Baptists* by Henry C. Vedder
@@ -107,6 +111,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **Gesenius —** **_Hebrew Grammar_****, revised by E. A. Cowley** — [Open Library record](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar). **Access note:** Downloadable formats may depend on the edition and borrowing availability. An unrestricted EPUB is not guaranteed.
 - **John Calvin —** **_Institutes of the Christian Religion_** — [Monergism download page](https://www.monergism.com/institutes-christian-religion-ebook)
 - **Henry C. Vedder —** **_A Short History of the Baptists_** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
+- **Benjamin Keach** -** **_The Glory of a True Church, and Its Discipline Displayed_** - [Monergism](https://www.monergism.com/glory-true-church-ebook)
 
 ## Reading an EPUB Book in Your Own Language
 
