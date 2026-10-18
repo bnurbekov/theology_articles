@@ -1,6 +1,6 @@
 # Theological Study List
 
-**Reading the Word with Good Commentaries**
+**Commentaries**
 
    * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole
 
