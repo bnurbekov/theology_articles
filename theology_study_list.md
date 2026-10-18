@@ -147,7 +147,7 @@ Based on Schaff, "The Theology for Our Age and Country" (*Presbyterian Quarterly
 
 Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in its origin and authentic records; Historical = in its past history; Systematic = in its present state; Practical = in [...]
 
-## Exegetical (Biblical) Theology
+**Exegetical (Biblical) Theology**
 
 - Sacred philology
   - Hebrew and the other Semitic languages
@@ -170,7 +170,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
   - History of exegesis
 - Biblical theology (the Bible's doctrine and ethics, organized systematically)
 
-## Historical Theology
+**Historical Theology**
 
 - Church history (general, by period)
 - History of missions and persecutions
@@ -180,7 +180,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - History of Christian charity and philanthropy
 - Patristic (placement is my inference)
 
-## Systematic Theology
+**Systematic Theology**
 
 - Apologetics
 - Dogmatics
@@ -190,7 +190,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - Christian ethics
 - Statistics (present condition of the churches)
 
-## Practical Theology
+**Practical Theology**
 
 - Homiletics
 - Catechetics
