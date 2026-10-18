@@ -1,41 +1,41 @@
 # Theological Study List
 
-1. **Reading the Word with Good Commentaries**
+**Reading the Word with Good Commentaries**
 
    * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole
 
-2. **Confessions**
+**Confessions**
 
    * The 1689 Baptist Confession of Faith
 
-3. **Systematic Theology**
+**Systematic Theology**
 
    * *Systematic Theology* by Louis Berkhof
 
-4. **Biblical Theology**
+**Biblical Theology**
 
    * *Biblical Theology: Old and New Testaments* by Geerhardus Vos
    
    * *A Discourse of the Covenants That God Made with Men before the Law* by Nehemiah Coxe
 
 
-5. **Ethics**
+**Ethics**
 
    * *Christianity and Ethics: A Handbook of Christian Ethics* by Archibald Alexander *(also possibly Calvin’s Institutes)*
 
-6. **Hermeneutics**
+**Hermeneutics**
 
    * *Principles of Biblical Interpretation* by Louis Berkhof
 
-7. **Homiletics**
+**Homiletics**
 
    * *The Art of Prophesying* by William Perkins
 
-8. **Pastoral Theology**
+**Pastoral Theology**
 
    * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
 
-1. **General and Special Introduction**
+**General and Special Introduction**
 
    * **NT (General & Special):** *Introduction to the New Testament* by Louis Berkhof
 
@@ -43,29 +43,29 @@
 
    * **OT (Special):** *Gleason Archer, A Survey of Old Testament Introduction*
 
-2. **Textual Criticism**
+**Textual Criticism**
 
    * **OT:** *General Introduction to the Old Testament: The Text* by William Henry Green
 
    * **NT:** *An Introduction to the Textual Criticism of the New Testament* by B. B. Warfield
 
-3. **Basics of Biblical Languages**
+**Basics of Biblical Languages**
 
    * **Greek:** *New Testament Greek for Beginners* by J. Gresham Machen
 
    * **Hebrew:** *An Open Introduction to Biblical Hebrew* by ninjaaron (GitHub)
 
-4. **Apologetics**
+**Apologetics**
 
    * *Defending the Faith* by Cornelius Van Til
 
-5. **Evangelism and Missions**
+**Evangelism and Missions**
 
    * *An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens* by William Carey
 
    * *The Gospel Worthy of All Acceptation* by Andrew Fuller
 
-6. **Church History Outside of the Times of Writing the Canon**
+**Church History Outside of the Times of Writing the Canon**
 
    * *A Short History of the Baptists* by Henry C. Vedder
 
@@ -73,7 +73,7 @@
 
    * *History of the Christian Church* by Philip Schaff
 
-7. **Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
+**Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
 
    * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson
 
