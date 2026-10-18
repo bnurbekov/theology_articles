@@ -93,10 +93,10 @@
 - [William Perkins — The Art of Prophesying](https://www.monergism.com/art-prophesying-ebook)
 - [Hezekiah Harvey — The Pastor: His Qualifications and Duties](https://www.gutenberg.org/ebooks/61170)
 - [Louis Berkhof — Introduction to the New Testament](https://www.monergism.com/introduction-new-testament-ebook?page=1)
-- [William Henry Green — General Introduction to the Old Testament: The Canon](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_(IA_cu31924029277618).pd[...]
+- [William Henry Green — General Introduction to the Old Testament: The Canon](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_(IA_cu31924029277618).pdf) — Scan (EPUB not verified)
 - [Gleason Archer — A Survey of Old Testament Introduction](https://books.google.com/books?id=-8PYAAAAMAAJ) — Free (EPUB not verified)
-- [William Henry Green — General Introduction to the Old Testament: The Text](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_(IA_cu31924029277667).pdf)[...]
-- [B. B. Warfield — An Introduction to the Textual Criticism of the New Testament](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament) — (EPUB [...]
+- [William Henry Green — General Introduction to the Old Testament: The Text](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_(IA_cu31924029277667).pdf) — Scan (EPUB not verified)
+- [B. B. Warfield — An Introduction to the Textual Criticism of the New Testament](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament) — (EPUB option listed; access may be restricted)
 - [J. Gresham Machen — New Testament Greek for Beginners](https://archive.org/details/newtestamentgree00mach) — (EPUB option listed)
 - [An Open Introduction to Biblical Hebrew](https://github.com/ninjaaron/hebrew-book) — Source available (downloadable EPUB not verified)
 - [William Carey — An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens](https://www.gutenberg.org/ebooks/11449)
@@ -104,14 +104,14 @@
 - [Cornelius Van Til — Defending the Faith](https://www.monergism.com/defending-faith-ebook)
 - [Volrath Vogt — Bible History and Brief Outline of Church History](https://www.gutenberg.org/ebooks/71231)
 - [Philip Schaff — History of the Christian Church](https://www.ccel.org/index/format/epub)
-- [A. T. Robertson — A Grammar of the Greek New Testament in the Light of Historical Research](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historic[...]
+- [A. T. Robertson — A Grammar of the Greek New Testament in the Light of Historical Research](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research) — (EPUB option listed; access may be restricted)
 - [Gesenius — Hebrew Grammar, revised by A. E. Cowley](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar) — (EPUB option listed; access may be restricted)
 - [Henry C. Vedder — A Short History of the Baptists](https://www.gutenberg.org/ebooks/) — Search Project Gutenberg (verified direct EPUB link not established)
 - [John Calvin — Institutes of the Christian Religion, Volume 1](https://www.gutenberg.org/ebooks/45001) — EPUB confirmed for Volume 1 (complete two-volume set not verified)
 
-## Appendix: Reading an EPUB Book in Your Own Language
+## Reading an EPUB Book in Your Own Language
 
-Many of the books above are available as EPUB files. [EPUB Reader](https://epub-reader.batyrlan94.workers.dev/) is a free tool that opens an EPUB in your phone or computer browser and helps you r[...]
+Many of the books above are available as EPUB files. [EPUB Reader](https://epub-reader.batyrlan94.workers.dev/) is a free tool that opens an EPUB in your phone or computer browser and helps you read it in Kazakh, Russian, Arabic, Spanish, Turkish, English, or another language. There is nothing to install and no account. The book is opened on your own device and is not uploaded anywhere.
 
 1. **Open the reader**
    - Go to https://epub-reader.batyrlan94.workers.dev/ in your browser.
@@ -132,24 +132,24 @@ Many of the books above are available as EPUB files. [EPUB Reader](https://epub-
    - Open *Settings* (top right) for text size, light or dark theme, font, line spacing, and margins.
 
 5. **Translate while you read**
-   - *Easiest: let your browser do it.* Tap *Translate this page*, or *How to translate on my phone* for steps that match your device. In general, use your browser's own Translate option (Chrome: menu[...]
-   - *Fallback: Google Translate, one passage at a time.* If your browser will not translate, tap *Not working? Use Google Translate instead*. For each passage, tap *Copy passage*, open Google Transla[...]
+   - *Easiest: let your browser do it.* Tap *Translate this page*, or *How to translate on my phone* for steps that match your device. In general, use your browser's own Translate option (Chrome: menu → Translate; Safari: the *aA* button → Translate), then choose your language. Menu names vary by browser and version.
+   - *Fallback: Google Translate, one passage at a time.* If your browser will not translate, tap *Not working? Use Google Translate instead*. For each passage, tap *Copy passage*, open Google Translate, paste, read, then tap *Next*.
    - To go back to the original text, tap *Show original English*.
 
 **Notes**
-- *(My caveat)* This tool cannot force your browser to translate. Whether browser translation works depends on your browser, device, and language. The Google fallback works anywhere you can copy and p[...]
+- *(My caveat)* This tool cannot force your browser to translate. Whether browser translation works depends on your browser, device, and language. The Google fallback works anywhere you can copy and paste.
 - Machine translation is a reading aid, not a substitute for the original. For theological terms especially, check important passages against the English.
-- Your reading position, bookmarks, and saved books stay in your browser on that device. Some browsers, especially Safari, clear this after a while, in which case choose the file again. *Settings → [...]
+- Your reading position, bookmarks, and saved books stay in your browser on that device. Some browsers, especially Safari, clear this after a while, in which case choose the file again. *Settings → Clear saved settings…* erases everything.
 - Translating sends the text you translate to your browser's or Google's translation service.
 
 
-## Appendix: Divisions of Theology (after Philip Schaff)
+## Divisions of Theology (after Philip Schaff)
 
 Based on Schaff, "The Theology for Our Age and Country" (*Presbyterian Quarterly and Princeton Review*, Jan. 1872, pp. 30-33) and *Theological Propaedeutic* (1892).
 
-Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in its origin and authentic records; Historical = in its past history; Systematic = in its present state; Practical = in [...]
+Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in its origin and authentic records; Historical = in its past history; Systematic = in its present state; Practical = in its aim and action for the future.
 
-**Exegetical (Biblical) Theology**
+### 1. Exegetical (Biblical) Theology
 
 - Sacred philology
   - Hebrew and the other Semitic languages
@@ -172,7 +172,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
   - History of exegesis
 - Biblical theology (the Bible's doctrine and ethics, organized systematically)
 
-**Historical Theology**
+### 2. Historical Theology
 
 - Church history (general, by period)
 - History of missions and persecutions
@@ -182,7 +182,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - History of Christian charity and philanthropy
 - Patristic (placement is my inference)
 
-**Systematic Theology**
+### 3. Systematic Theology
 
 - Apologetics
 - Dogmatics
@@ -192,7 +192,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - Christian ethics
 - Statistics (present condition of the churches)
 
-**Practical Theology**
+### 4. Practical Theology
 
 - Homiletics
 - Catechetics
@@ -201,8 +201,8 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - Theory of church government
 - Evangelistic (placement is my inference)
 
-**Notes**
+### Notes
 
 - Schaff names Patristic and Evangelistic in the Propaedeutic preface but does not state their branch; the placements above are inferred.
 - Polemics and Irenics are nested under Symbolics because Schaff says Symbolics now includes both.
-- Free texts: [1872 address](https://www.logcollegepress.com/s/Schaff-Philip-The-Theology-for-Our-Age-and-Country.pdf); [Propaedeutic, Part I](https://www.logcollegepress.com/s/Schaff-Philip-Theo[...]
+- Free texts: [1872 address](https://www.logcollegepress.com/s/Schaff-Philip-The-Theology-for-Our-Age-and-Country.pdf); [Propaedeutic, Part I](https://www.logcollegepress.com/s/Schaff-Philip-Theological-Propdeutic-Vol-1.pdf)
