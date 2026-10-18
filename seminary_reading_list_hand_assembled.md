@@ -61,7 +61,7 @@
 
 4. **Apologetics**
 
-   * *The Defense of the Faith* by Cornelius Van Til
+   * *Defending the Faith* by Cornelius Van Til
 
 5. **Evangelism and Missions**
 
