@@ -43,9 +43,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 
    * **NT (General & Special):** *Introduction to the New Testament* by Louis Berkhof
 
-   * **OT (General):** *General Introduction to the Old Testament: The Canon* by William Henry Green
-
-   * **OT (Special):** *The Literature of the Old Testament* by George Foot Moore
+   * **OT (General & Special):** *Old Testament Introduction General and Special* by John Howard Raven
 
 **Textual Criticism**
 
@@ -95,7 +93,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **William Perkins —** **_The Art of Prophesying_** — [Monergism download page](https://www.monergism.com/art-prophesying-ebook)
 - **Hezekiah Harvey —** **_The Pastor: His Qualifications and Duties_** — [Direct EPUB download](https://www.gutenberg.org/ebooks/61170.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/61170)
 - **Louis Berkhof —** **_Introduction to the New Testament_** — [Monergism download page](https://www.monergism.com/introduction-new-testament-ebook). The page lists EPUB, MOBI, HTML, and PDF formats.
-- **William Henry Green —** **_General Introduction to the Old Testament: The Canon_** — [Wikimedia Commons scan/PDF](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_canon_%28IA_cu31924029277618%29.pdf). **Format:** Scan/PDF; a complete EPUB has not been verified.
+- **John Howard Raven —** **Old Testament introduction, general and special** — [Internet Archive](https://archive.org/details/oldtestamentintr00raverich/page/n6/mode/1up). **Format:** Scan/PDF; a complete EPUB has not been verified.
 - **William Henry Green —** **_General Introduction to the Old Testament: The Text_** — [Wikimedia Commons scan/PDF](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_%28IA_cu31924029277667%29.pdf). **Format:** Scan/PDF; a complete EPUB has not been verified.
 - **B. B. Warfield —** **_An Introduction to the Textual Criticism of the New Testament_** — [Internet Archive/Open Library record](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament). **Access note:** Download options may depend on the edition and borrowing availability. An EPUB is not guaranteed.
 - **J. Gresham Machen —** **_New Testament Greek for Beginners_** — [Internet Archive edition page](https://archive.org/details/newtestamentgree00mach). **Access note:** Check the available download options; an unrestricted EPUB has not been independently confirmed.
@@ -108,7 +106,6 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **A. T. Robertson —** **_A Grammar of the Greek New Testament in the Light of Historical Research_** — [Open Library/Internet Archive record](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research). **Access note:** Downloadable formats may vary by edition. Use the scan or online edition if an EPUB is unavailable.
 - **Gesenius —** **_Hebrew Grammar_****, revised by E. A. Cowley** — [Open Library record](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar). **Access note:** Downloadable formats may depend on the edition and borrowing availability. An unrestricted EPUB is not guaranteed.
 - **John Calvin —** **_Institutes of the Christian Religion_** — [Monergism download page](https://www.monergism.com/institutes-christian-religion-ebook)
-- **George Foot Moore —** **_Literature of the Old Testament_** — [Project Gutenberg book page](https://www.gutenberg.org/ebooks/40173)
 - **Henry C. Vedder —** **_A Short History of the Baptists_** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
 
 ## Reading an EPUB Book in Your Own Language
