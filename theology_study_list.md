@@ -1,5 +1,7 @@
 # Theological Study List
 
+This theological study list tries to approximate material covered by an MDiv program using only free books that can be translated into many languages. The purpose is to provide access to sound teaching for brothers who do not have access to seminaries or cannot attend one for other reasons. Also, a companion tool was developed to helps with translating the books listed into many languages.
+
 ## Books
 
 **Commentaries**
