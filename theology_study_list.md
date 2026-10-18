@@ -199,7 +199,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - Theory of church government
 - Evangelistic (placement is my inference)
 
-## Notes
+**Notes**
 
 - Schaff names Patristic and Evangelistic in the Propaedeutic preface but does not state their branch; the placements above are inferred.
 - Polemics and Irenics are nested under Symbolics because Schaff says Symbolics now includes both.
