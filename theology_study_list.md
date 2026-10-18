@@ -22,7 +22,6 @@ This theological study list aims to approximate the material covered in an MDiv 
    
    * *A Discourse of the Covenants That God Made with Men before the Law* by Nehemiah Coxe
 
-
 **Ethics**
 
    * *Christianity and Ethics: A Handbook of Christian Ethics* by Archibald Alexander *(also possibly Calvin’s Institutes)*
@@ -37,6 +36,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 
 **Pastoral Theology**
 
+   * *The Reformed Pastor* by Richard Baxter
    * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
 
 **General and Special Introduction**
@@ -112,6 +112,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **John Calvin —** **_Institutes of the Christian Religion_** — [Monergism download page](https://www.monergism.com/institutes-christian-religion-ebook)
 - **Henry C. Vedder —** **_A Short History of the Baptists_** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
 - **Benjamin Keach** -** **_The Glory of a True Church, and Its Discipline Displayed_** - [Monergism](https://www.monergism.com/glory-true-church-ebook)
+- **Richard Baxter** -** **_The Reformed Pastor_** - [Monergism](https://www.monergism.com/reformed-pastor-ebook)
 
 ## Reading an EPUB Book in Your Own Language
 
