@@ -73,7 +73,7 @@
 
    * *History of the Christian Church* by Philip Schaff
 
-**Mastery of the Language** *(Basic knowledge is sufficient to use tools)*
+**Mastery of the Language**
 
    * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson
 
