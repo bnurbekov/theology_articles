@@ -45,7 +45,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 
    * **OT (General):** *General Introduction to the Old Testament: The Canon* by William Henry Green
 
-   * **OT (Special):** *Gleason Archer, A Survey of Old Testament Introduction*
+   * **OT (Special):** *Introduction to the Literature of the Old Testament* by S. R. Driver
 
 **Textual Criticism**
 
