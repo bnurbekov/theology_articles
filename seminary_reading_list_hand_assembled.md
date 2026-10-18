@@ -71,9 +71,9 @@
 
    * *Bible History and Brief Outline of Church History* by Volrath Vogt
 
-   * *History of the Christian Church* by Philip Schaff
+   * *History of the Christian Church* by Philip Schaff [Use as a reference (don't study in its entirety)]
 
-**Mastery of the Language**
+**Advanced Study of Biblical Languages**
 
    * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson [Use as a reference (don't study in its entirety)]
 
