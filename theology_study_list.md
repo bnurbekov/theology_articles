@@ -75,7 +75,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 
    * *A Short History of the Baptists* by Henry C. Vedder
 
-   * *Bible History and Brief Outline of Church History* by Volrath Vogt
+   * *Church History (Volumes 1-3)* by J. H. Kurtz
 
    * *History of the Christian Church* by Philip Schaff [Use as a reference (don't study in its entirety)]
 
@@ -105,7 +105,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **William Carey —** ***An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens*** — [Direct EPUB download](https://www.gutenberg.org/ebooks/11449.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/11449)
 - **Andrew Fuller —** ***The Gospel Worthy of All Acceptation*** (modernized edition) — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
 - **Cornelius Van Til —** ***Defending the Faith*** — [Monergism EPUB page](https://www.monergism.com/content/defending-faith-epub)
-- **Volrath Vogt —** ***Bible History and Brief Outline of Church History*** — [Direct EPUB download](https://www.gutenberg.org/ebooks/71231.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/71231)
+- **J. H. Kurtz —** ***Church History (Volumes 1-3)*** — [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/51491)
 - **Philip Schaff —** ***History of the Christian Church*** — [CCEL work page and volume links](https://www.ccel.org/s/schaff/history/home.html) · [Example volume with EPUB and other formats](https://ccel.org/ccel/schaff/hcc1.html). This is a multivolume work; download the relevant volumes rather than assuming a single EPUB contains the entire set.
 - **A. T. Robertson —** ***A Grammar of the Greek New Testament in the Light of Historical Research*** — [Open Library/Internet Archive record](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research). **Access note:** Downloadable formats may vary by edition. Use the scan or online edition if an EPUB is unavailable.
 - **Gesenius —** ***Hebrew Grammar***, revised by E. A. Cowley — [Open Library record](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar). **Access note:** Downloadable formats may depend on the edition and borrowing availability. An unrestricted EPUB is not guaranteed.
