@@ -37,6 +37,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 **Pastoral Theology**
 
    * *The Reformed Pastor* by Richard Baxter
+   * *A Christian Directory* by Richard Baxter
    * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
 
 **General and Special Introduction**
@@ -113,6 +114,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **Henry C. Vedder —** ***A Short History of the Baptists*** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
 - **Benjamin Keach —** ***The Glory of a True Church, and Its Discipline Displayed*** — [Monergism](https://www.monergism.com/glory-true-church-ebook)
 - **Richard Baxter —** ***The Reformed Pastor*** — [Monergism](https://www.monergism.com/reformed-pastor-ebook)
+- **Richard Baxter –** ***A Christian Directory*** – [Monergism](https://www.monergism.com/christian-directory-4-ebook-set)
 
 ## Reading an EPUB Book in Your Own Language
 
