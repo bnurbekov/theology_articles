@@ -39,6 +39,7 @@ This theological study list aims to approximate the material covered in an MDiv 
    * *The Reformed Pastor* by Richard Baxter
    * *A Christian Directory* by Richard Baxter
    * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
+   * *Counselling Recipes* by Timothy Tow
 
 **General and Special Introduction**
 
@@ -115,6 +116,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 - **Benjamin Keach —** ***The Glory of a True Church, and Its Discipline Displayed*** — [Monergism](https://www.monergism.com/glory-true-church-ebook)
 - **Richard Baxter —** ***The Reformed Pastor*** — [Monergism](https://www.monergism.com/reformed-pastor-ebook)
 - **Richard Baxter –** ***A Christian Directory*** – [Monergism](https://www.monergism.com/christian-directory-4-ebook-set)
+- **Timothy Tow –** ***Counselling Recipes*** – [Far Eastern Bible College page](https://www.febc.edu.sg/publications/febc_press/pastoral_ministry)
 
 ## Reading an EPUB Book in Your Own Language
 
