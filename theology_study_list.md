@@ -4,6 +4,10 @@ This theological study list aims to approximate the material covered in an MDiv 
 
 ## Books
 
+**Bible**
+
+   * *World English Bible*
+
 **Commentaries**
 
    * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole [Use as a reference (don't study in its entirety)]
@@ -89,6 +93,7 @@ This theological study list aims to approximate the material covered in an MDiv 
 
 ## Download Links
 
+- ***World English Bible*** – [Ebible download page (EPUB, PDF)](https://ebible.org/find/show.php?id=eng-web)
 - **Matthew Poole —** ***Annotations Upon the Holy Bible*** — [Monergism author page](https://www.monergism.com/authorsspeakers/matthew-poole)
 - **The 1689 Baptist Confession of Faith** — [Monergism download page](https://www.monergism.com/london-baptist-confession-faith-1689-ebook). Open the page and choose an available format.
 - **Louis Berkhof —** ***Systematic Theology*** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/systematic-theology-ebook)
