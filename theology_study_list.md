@@ -4,12 +4,6 @@ This theological study list aims to approximate the material covered in an MDiv 
 
 **Reading in your own language:** most books below come as EPUB files, which you can open and translate with the free [EPUB Reader](#reading-an-epub-book-in-your-own-language).
 
-## Contents
-
-- [Books](#books)
-- [Reading an EPUB Book in Your Own Language](#reading-an-epub-book-in-your-own-language)
-- [Divisions of Theology (after Philip Schaff)](#divisions-of-theology-after-philip-schaff)
-
 ## Books
 
 Entries marked *(reference)* are for looking things up, not for studying in full, and are listed after the core books in each category. Entries marked ⚠ have no verified EPUB.
