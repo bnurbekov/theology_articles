@@ -2,160 +2,169 @@
 
 This theological study list aims to approximate the material covered in an MDiv program using only free books. Its purpose is to provide access to sound theological teaching for brothers who lack access to seminaries or are unable to attend one for other reasons. A companion tool has also been developed to help translate the listed books into many languages, and an overview of the various disciplines of theology is included.
 
+**Reading in your own language:** most books below come as EPUB files, which you can open and translate with the free [EPUB Reader](#reading-an-epub-book-in-your-own-language).
+
+## Contents
+
+- [Books](#books)
+- [Reading an EPUB Book in Your Own Language](#reading-an-epub-book-in-your-own-language)
+- [Divisions of Theology (after Philip Schaff)](#divisions-of-theology-after-philip-schaff)
+
 ## Books
 
-**Bible**
+Entries marked *(reference)* are for looking things up, not for studying in full, and are listed after the core books in each category. Entries marked ⚠ have no verified EPUB.
 
-   * *World English Bible*
+### Bible
 
-**Commentaries**
+- *World English Bible*
+  - Download: [Ebible (EPUB, PDF)](https://ebible.org/find/show.php?id=eng-web)
 
-   * *Annotations Upon the Holy Bible* (Commentaries) by Matthew Poole [Use as a reference (don't study in its entirety)]
+### Commentaries
 
-**Confessions**
+- *Annotations Upon the Holy Bible* by Matthew Poole *(reference)*
+  - Download: [Monergism author page](https://www.monergism.com/authorsspeakers/matthew-poole)
 
-   * The 1689 Baptist Confession of Faith
+### Confessions
 
-**Systematic Theology**
+- *The 1689 Baptist Confession of Faith*
+  - Download: [Monergism](https://www.monergism.com/london-baptist-confession-faith-1689-ebook) (open the page and choose a format)
 
-   * *Systematic Theology* by Louis Berkhof
+### Systematic Theology
 
-**Biblical Theology**
+- *Systematic Theology* by Louis Berkhof
+  - Download: [Monergism (EPUB, MOBI, PDF)](https://www.monergism.com/systematic-theology-ebook)
 
-   * *Biblical Theology: Old and New Testaments* by Geerhardus Vos
-   
-   * *A Discourse of the Covenants That God Made with Men before the Law* by Nehemiah Coxe
+### Biblical Theology
 
-**Ethics**
+- *Biblical Theology: Old and New Testaments* by Geerhardus Vos
+  - Download: [Monergism (EPUB, MOBI, PDF)](https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook)
+- *A Discourse of the Covenants That God Made with Men before the Law* by Nehemiah Coxe
+  - Download: [Monergism (EPUB, MOBI, PDF)](https://www.monergism.com/discourse-covenants-ebook)
 
-   * *Christianity and Ethics: A Handbook of Christian Ethics* by Archibald Alexander *(also possibly Calvin’s Institutes)*
+### Ethics
 
-**Hermeneutics**
+- *Christianity and Ethics: A Handbook of Christian Ethics* by Archibald Alexander
+  - Download: [EPUB](https://www.gutenberg.org/ebooks/22105.epub.images) · [Project Gutenberg (other formats)](https://www.gutenberg.org/ebooks/22105)
+- *Institutes of the Christian Religion* by John Calvin *(optional, suggested as an alternative or supplement)*
+  - Download: [Monergism](https://www.monergism.com/institutes-christian-religion-ebook)
 
-   * *Principles of Biblical Interpretation* by Louis Berkhof
+### Hermeneutics
 
-**Homiletics**
+- *Principles of Biblical Interpretation* by Louis Berkhof
+  - Download: [Monergism](https://www.monergism.com/principles-biblical-interpretation-sacred-hermeneutics-ebook)
 
-   * *The Art of Prophesying* by William Perkins
+### Homiletics
 
-**Pastoral Theology**
+- *The Art of Prophesying* by William Perkins
+  - Download: [Monergism](https://www.monergism.com/art-prophesying-ebook)
 
-   * *The Reformed Pastor* by Richard Baxter
-   * *A Christian Directory* by Richard Baxter
-   * *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
-   * *Counselling Recipes* by Timothy Tow
+### Pastoral Theology
 
-**General and Special Introduction**
+- *The Reformed Pastor* by Richard Baxter
+  - Download: [Monergism](https://www.monergism.com/reformed-pastor-ebook)
+- *A Christian Directory* by Richard Baxter
+  - Download: [Monergism](https://www.monergism.com/christian-directory-4-ebook-set)
+- *The Pastor: His Qualifications and Duties* by Hezekiah Harvey
+  - Download: [EPUB](https://www.gutenberg.org/ebooks/61170.epub.images) · [Project Gutenberg (other formats)](https://www.gutenberg.org/ebooks/61170)
+- *Counselling Recipes* by Timothy Tow
+  - Download: [Far Eastern Bible College](https://www.febc.edu.sg/publications/febc_press/pastoral_ministry)
 
-   * **NT (General & Special):** *Introduction to the New Testament* by Louis Berkhof
+### General and Special Introduction
 
-   * **OT (General & Special):** *Old Testament Introduction General and Special* by John Howard Raven
+- **New Testament:** *Introduction to the New Testament* by Louis Berkhof
+  - Download: [Monergism (EPUB, MOBI, HTML, PDF)](https://www.monergism.com/introduction-new-testament-ebook)
+- **Old Testament:** *Old Testament Introduction General and Special* by John Howard Raven
+  - Download: [Internet Archive (scan/PDF)](https://archive.org/details/oldtestamentintr00raverich/page/n6/mode/1up)
+  - ⚠ EPUB not verified: scan/PDF only.
 
-**Textual Criticism**
+### Textual Criticism
 
-   * **OT:** *General Introduction to the Old Testament: The Text* by William Henry Green
+- **Old Testament:** *General Introduction to the Old Testament: The Text* by William Henry Green
+  - Download: [Wikimedia Commons (scan/PDF)](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_%28IA_cu31924029277667%29.pdf)
+  - ⚠ EPUB not verified: scan/PDF only.
+- **New Testament:** *An Introduction to the Textual Criticism of the New Testament* by B. B. Warfield
+  - Download: [Open Library / Internet Archive](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament)
+  - ⚠ EPUB not guaranteed: formats depend on the edition and borrowing availability.
 
-   * **NT:** *An Introduction to the Textual Criticism of the New Testament* by B. B. Warfield
+### Basics of Biblical Languages
 
-**Basics of Biblical Languages**
+- **Greek:** *New Testament Greek for Beginners* by J. Gresham Machen
+  - Download: [Internet Archive](https://archive.org/details/newtestamentgree00mach)
+  - ⚠ EPUB not confirmed: check the available download options.
+- **Hebrew:** *An Open Introduction to Biblical Hebrew* by ninjaaron
+  - Download: [GitHub repository (source files and online materials)](https://github.com/ninjaaron/hebrew-book)
+  - ⚠ Ready-to-download EPUB not verified: see the repository's current instructions.
 
-   * **Greek:** *New Testament Greek for Beginners* by J. Gresham Machen
+### Apologetics
 
-   * **Hebrew:** *An Open Introduction to Biblical Hebrew* by ninjaaron (GitHub)
+- *Defending the Faith* by Cornelius Van Til
+  - Download: [Monergism (EPUB)](https://www.monergism.com/content/defending-faith-epub)
 
-**Apologetics**
+### Evangelism and Missions
 
-   * *Defending the Faith* by Cornelius Van Til
+- *An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens* by William Carey
+  - Download: [EPUB](https://www.gutenberg.org/ebooks/11449.epub.images) · [Project Gutenberg (other formats)](https://www.gutenberg.org/ebooks/11449)
+- *The Gospel Worthy of All Acceptation* by Andrew Fuller (modernized edition)
+  - Download: [Monergism (EPUB, MOBI, PDF)](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
 
-**Evangelism and Missions**
+### Church Polity and Ecclesiology
 
-   * *An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens* by William Carey
+- *The Glory of a True Church, and Its Discipline Displayed* by Benjamin Keach
+  - Download: [Monergism](https://www.monergism.com/glory-true-church-ebook)
 
-   * *The Gospel Worthy of All Acceptation* by Andrew Fuller
+### Church History
 
-**Church Polity and Ecclesiology**
+- *A Short History of the Baptists* by Henry C. Vedder
+  - Download: [Full text](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive](https://archive.org/details/shorthistoryofba00ved)
+- *Church History (Volumes 1-3)* by J. H. Kurtz
+  - Download: [Project Gutenberg (EPUB and other formats)](https://www.gutenberg.org/ebooks/51491)
+- *History of the Christian Church* by Philip Schaff *(reference)*
+  - Download: [CCEL (volume links)](https://www.ccel.org/s/schaff/history/home.html) · [Example volume (EPUB and other formats)](https://ccel.org/ccel/schaff/hcc1.html)
+  - Note: this is a multivolume work. Download the volumes you need; a single EPUB does not contain the whole set.
 
-  * *The Glory of a True Church, and Its Discipline Displayed* by Benjamin Keach 
+### Advanced Study of Biblical Languages
 
-**Church History**
-
-   * *A Short History of the Baptists* by Henry C. Vedder
-
-   * *Church History (Volumes 1-3)* by J. H. Kurtz
-
-   * *History of the Christian Church* by Philip Schaff [Use as a reference (don't study in its entirety)]
-
-**Advanced Study of Biblical Languages**
-
-   * **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson [Use as a reference (don't study in its entirety)]
-
-   * **Hebrew (Reference / Advanced Grammar):** *Gesenius' Hebrew Grammar* (edited by E. Kautzsch, revised by A. E. Cowley) [Use as a reference (don't study in its entirety)]
-
-## Download Links
-
-- ***World English Bible*** – [Ebible download page (EPUB, PDF)](https://ebible.org/find/show.php?id=eng-web)
-- **Matthew Poole —** ***Annotations Upon the Holy Bible*** — [Monergism author page](https://www.monergism.com/authorsspeakers/matthew-poole)
-- **The 1689 Baptist Confession of Faith** — [Monergism download page](https://www.monergism.com/london-baptist-confession-faith-1689-ebook). Open the page and choose an available format.
-- **Louis Berkhof —** ***Systematic Theology*** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/systematic-theology-ebook)
-- **Geerhardus Vos —** ***Biblical Theology: Old and New Testaments*** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook)
-- **Nehemiah Coxe —** ***A Discourse of the Covenants*** — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/discourse-covenants-ebook)
-- **Archibald Alexander —** ***Christianity and Ethics: A Handbook of Christian Ethics*** — [Direct EPUB download](https://www.gutenberg.org/ebooks/22105.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/22105)
-- **Louis Berkhof —** ***Principles of Biblical Interpretation (Sacred Hermeneutics)*** — [Monergism download page](https://www.monergism.com/principles-biblical-interpretation-sacred-hermeneutics-ebook)
-- **William Perkins —** ***The Art of Prophesying*** — [Monergism download page](https://www.monergism.com/art-prophesying-ebook)
-- **Hezekiah Harvey —** ***The Pastor: His Qualifications and Duties*** — [Direct EPUB download](https://www.gutenberg.org/ebooks/61170.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/61170)
-- **Louis Berkhof —** ***Introduction to the New Testament*** — [Monergism download page](https://www.monergism.com/introduction-new-testament-ebook). The page lists EPUB, MOBI, HTML, and PDF formats.
-- **John Howard Raven —** ***Old Testament Introduction, General and Special*** — [Internet Archive](https://archive.org/details/oldtestamentintr00raverich/page/n6/mode/1up). **Format:** Scan/PDF; a complete EPUB has not been verified.
-- **William Henry Green —** ***General Introduction to the Old Testament: The Text*** — [Wikimedia Commons scan/PDF](https://commons.wikimedia.org/wiki/File:General_introduction_to_the_Old_Testament%3B_the_text_%28IA_cu31924029277667%29.pdf). **Format:** Scan/PDF; a complete EPUB has not been verified.
-- **B. B. Warfield —** ***An Introduction to the Textual Criticism of the New Testament*** — [Internet Archive/Open Library record](https://openlibrary.org/books/OL23306747M/An_Introduction_to_the_textual_criticism_of_the_New_Testament). **Access note:** Download options may depend on the edition and borrowing availability. An EPUB is not guaranteed.
-- **J. Gresham Machen —** ***New Testament Greek for Beginners*** — [Internet Archive edition page](https://archive.org/details/newtestamentgree00mach). **Access note:** Check the available download options; an unrestricted EPUB has not been independently confirmed.
-- ***An Open Introduction to Biblical Hebrew*** — [Project repository and source files](https://github.com/ninjaaron/hebrew-book). **Format:** Source code and online materials; a current, ready-to-download EPUB has not been verified. Consult the repository's current instructions.
-- **William Carey —** ***An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens*** — [Direct EPUB download](https://www.gutenberg.org/ebooks/11449.epub.images) · [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/11449)
-- **Andrew Fuller —** ***The Gospel Worthy of All Acceptation*** (modernized edition) — [Monergism download page (EPUB, MOBI, PDF)](https://www.monergism.com/gospel-worthy-all-acceptation-modernized-ebook)
-- **Cornelius Van Til —** ***Defending the Faith*** — [Monergism EPUB page](https://www.monergism.com/content/defending-faith-epub)
-- **J. H. Kurtz —** ***Church History (Volumes 1-3)*** — [Project Gutenberg book page and other formats](https://www.gutenberg.org/ebooks/51491)
-- **Philip Schaff —** ***History of the Christian Church*** — [CCEL work page and volume links](https://www.ccel.org/s/schaff/history/home.html) · [Example volume with EPUB and other formats](https://ccel.org/ccel/schaff/hcc1.html). This is a multivolume work; download the relevant volumes rather than assuming a single EPUB contains the entire set.
-- **A. T. Robertson —** ***A Grammar of the Greek New Testament in the Light of Historical Research*** — [Open Library/Internet Archive record](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research). **Access note:** Downloadable formats may vary by edition. Use the scan or online edition if an EPUB is unavailable.
-- **Gesenius —** ***Hebrew Grammar***, revised by E. A. Cowley — [Open Library record](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar). **Access note:** Downloadable formats may depend on the edition and borrowing availability. An unrestricted EPUB is not guaranteed.
-- **John Calvin —** ***Institutes of the Christian Religion*** — [Monergism download page](https://www.monergism.com/institutes-christian-religion-ebook)
-- **Henry C. Vedder —** ***A Short History of the Baptists*** — [Full text and table of contents](https://www.reformedreader.org/history/vedder/contents.htm) · [Internet Archive edition](https://archive.org/details/shorthistoryofba00ved)
-- **Benjamin Keach —** ***The Glory of a True Church, and Its Discipline Displayed*** — [Monergism](https://www.monergism.com/glory-true-church-ebook)
-- **Richard Baxter —** ***The Reformed Pastor*** — [Monergism](https://www.monergism.com/reformed-pastor-ebook)
-- **Richard Baxter –** ***A Christian Directory*** – [Monergism](https://www.monergism.com/christian-directory-4-ebook-set)
-- **Timothy Tow –** ***Counselling Recipes*** – [Far Eastern Bible College page](https://www.febc.edu.sg/publications/febc_press/pastoral_ministry)
+- **Greek:** *A Grammar of the Greek New Testament in the Light of Historical Research* by A. T. Robertson *(reference)*
+  - Download: [Open Library / Internet Archive](https://openlibrary.org/books/OL21254788M/A_grammar_of_the_Greek_New_Testament_in_the_light_of_historical_research)
+  - ⚠ EPUB not guaranteed: formats vary by edition. Use the scan or online edition if no EPUB is available.
+- **Hebrew:** *Gesenius' Hebrew Grammar*, edited by E. Kautzsch and revised by A. E. Cowley *(reference)*
+  - Download: [Open Library](https://openlibrary.org/books/OL7085598M/Gesenius%27_Hebrew_grammar)
+  - ⚠ EPUB not guaranteed: formats depend on the edition and borrowing availability.
 
 ## Reading an EPUB Book in Your Own Language
 
 Many of the books above are available as EPUB files. [EPUB Reader](https://epub-reader.batyrlan94.workers.dev/) is a free tool that opens an EPUB in your phone or computer browser and helps you read it in Kazakh, Russian, Arabic, Spanish, Turkish, English, or another language. There is nothing to install and no account. The book is opened on your own device and is not uploaded anywhere.
 
 1. **Open the reader**
-   - Go to https://epub-reader.batyrlan94.workers.dev/ in your browser.
-   - Choose the language you want to read in. You can change it later.
 
+   - Go to [https://epub-reader.batyrlan94.workers.dev/](https://epub-reader.batyrlan94.workers.dev/) in your browser.
+   - Choose the language you want to read in. You can change it later.
 2. **Open your book**
+
    - Tap *Choose an EPUB book* and pick the file from your phone or computer.
    - Books protected by DRM (for example, many store-bought books) cannot be opened.
    - The book is remembered on that device. Next time, tap it under *Continue reading*. You can turn this off in *Settings*, and each saved book has a *Remove* button (tap twice).
-
 3. **Move around**
+
    - *Next* and *Previous* at the bottom turn the page. You can also swipe left or right.
    - The *Contents* button (top left) jumps to a chapter. The same menu has *Search the book* and *Bookmarks*.
    - Footnote links open inside the book. Tap *Back to where I was* to return.
    - The reader remembers where you stopped.
-
 4. **Make it comfortable**
-   - Open *Settings* (top right) for text size, light or dark theme, font, line spacing, and margins.
 
+   - Open *Settings* (top right) for text size, light or dark theme, font, line spacing, and margins.
 5. **Translate while you read**
+
    - *Easiest: let your browser do it.* Tap *Translate this page*, or *How to translate on my phone* for steps that match your device. In general, use your browser's own Translate option (Chrome: menu → Translate; Safari: the *aA* button → Translate), then choose your language. Menu names vary by browser and version.
    - *Fallback: Google Translate, one passage at a time.* If your browser will not translate, tap *Not working? Use Google Translate instead*. For each passage, tap *Copy passage*, open Google Translate, paste, read, then tap *Next*.
    - To go back to the original text, tap *Show original English*.
 
 **Notes**
-- *(My caveat)* This tool cannot force your browser to translate. Whether browser translation works depends on your browser, device, and language. The Google fallback works anywhere you can copy and paste.
+
+- This tool cannot force your browser to translate. Whether browser translation works depends on your browser, device, and language. The Google fallback works anywhere you can copy and paste.
 - Machine translation is a reading aid, not a substitute for the original. For theological terms especially, check important passages against the English.
 - Your reading position, bookmarks, and saved books stay in your browser on that device. Some browsers, especially Safari, clear this after a while, in which case choose the file again. *Settings → Clear saved settings…* erases everything.
 - Translating sends the text you translate to your browser's or Google's translation service.
-
 
 ## Divisions of Theology (after Philip Schaff)
 
@@ -166,19 +175,24 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 ### 1. Exegetical (Biblical) Theology
 
 - Sacred philology
+
   - Hebrew and the other Semitic languages
   - Hellenistic and New Testament Greek
 - Biblical archaeology
+
   - Biblical geography
   - Natural history of the Bible
   - Archaeology proper
 - Isagogic (historical-critical introduction to the Bible)
+
   - Biblical criticism
+
     - Textual criticism
     - Higher (historical) criticism
   - Canonic (theory of the canon)
   - Special isagogic (authorship of each book)
 - Hermeneutic and exegesis
+
   - Philological and historical exegesis
   - Theological exegesis
   - Practical and homiletical exegesis
@@ -194,13 +208,14 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - History of government and discipline
 - History of worship and ceremonies
 - History of Christian charity and philanthropy
-- Patristic (placement is my inference)
+- Patristic (inferred placement)
 
 ### 3. Systematic Theology
 
 - Apologetics
 - Dogmatics
 - Symbolics (comparative dogmatics, the study of creeds)
+
   - Polemics
   - Irenics
 - Christian ethics
@@ -213,7 +228,7 @@ Schaff's one-line summary (Propaedeutic, p. 11): Exegetical = Christianity in it
 - Poimenics (pastoral theology)
 - Liturgics
 - Theory of church government
-- Evangelistic (placement is my inference)
+- Evangelistic (inferred placement)
 
 ### Notes
 
