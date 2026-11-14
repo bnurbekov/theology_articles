@@ -1,4 +1,4 @@
-# Overview of the primary Reformed Baptist doctrines
+# Overview of sound Christian doctrines
 
 ## Nature of God
 
@@ -84,3 +84,14 @@ This doctrine says that there is no future millennial reign of Christ. The word 
 "Then I saw thrones, and **seated on them were those to whom the authority to judge was committed.** Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. Blessed and holy is the one who shares **in the first resurrection!** Over such **the second death has no power,** but they will be priests of God and of Christ, and they will reign with him for a thousand years." (Revelation 20:4–6)
 
 This passage describes those who believe in Jesus Christ as reigning with Christ already (Ephesians 2:6) and came to life (first resurrection), which is the new birth. Those who are born again will not go to hell, which is the second death (Revelation 20:14; Revelation 21:8).
+
+## Believer's baptism
+The meaning of baptism is that our old self died with Christ and our new self was resurrected with Him. Believers are baptized on behalf of their own old selves that are now dead: "Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?" (1 Corinthians 15:29, ESV) "We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin." (Romans 6:6, ESV)
+
+## Nonresistence
+The Lord Jesus Christ taught us that we should not physically resist an evil person: "But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also." (Matthew 5:39) Christ himself has done no violence and we are commanded to imitate the apostle Paul, as he imitates Christ (1 Corinthians 11:1): "And they made his grave with the wicked and with a rich man in his death, although he had done **no violence,** and there was no deceit in his mouth." (Isaiah 53:9) The Lord Jesus Christ also taught us that all who take the sword to commit violence will perish by the sword: "Then Jesus said to him, “Put your sword back into its place. For all who take the sword will perish by the sword." (Matthew 26:52)
+However, the Lord Jesus Christ escaped when he was brought to the brow of the hill to be thrown down and also He flipped the tables of money changers. Therefore, Christians are allowed to escape danger and to use non-violent means to prevent sin (such as erecting barricades, closing doors).
+We are supposed to preach all that the Lord Jesus Christ commanded us, including the command to not take the sword to all nations (including governments). It is the will of God that as the result of the preaching of the Gospel the nations will cast their swords into plowshares and no longer learn war during the Messianic age.
+
+## Refusal of oaths
+The Lord Jesus Christ taught us that we should not take oaths at all: "But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil." (Matthew 5:34-37, ESV)
