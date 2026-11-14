@@ -90,7 +90,9 @@ The meaning of baptism is that our old self died with Christ and our new self wa
 
 ## Nonresistence
 The Lord Jesus Christ taught us that we should not physically resist an evil person: "But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also." (Matthew 5:39) Christ himself has done no violence and we are commanded to imitate the apostle Paul, as he imitates Christ (1 Corinthians 11:1): "And they made his grave with the wicked and with a rich man in his death, although he had done **no violence,** and there was no deceit in his mouth." (Isaiah 53:9) The Lord Jesus Christ also taught us that all who take the sword to commit violence will perish by the sword: "Then Jesus said to him, “Put your sword back into its place. For all who take the sword will perish by the sword." (Matthew 26:52)
+
 However, the Lord Jesus Christ escaped when he was brought to the brow of the hill to be thrown down and also He flipped the tables of money changers. Therefore, Christians are allowed to escape danger and to use non-violent means to prevent sin (such as erecting barricades, closing doors).
+
 We are supposed to preach all that the Lord Jesus Christ commanded us, including the command to not take the sword to all nations (including governments). It is the will of God that as the result of the preaching of the Gospel the nations will cast their swords into plowshares and no longer learn war during the Messianic age.
 
 ## Refusal of oaths
