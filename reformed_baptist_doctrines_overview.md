@@ -87,7 +87,7 @@ This passage describes those who believe in Jesus Christ as reigning with Christ
 
 ## Believer's baptism
 
-The meaning of baptism is that our old self (old sinful nature) died with Christ and our new self (new nature created after the likeness of God in true righteousness and holiness) was resurrected with Him. Believers are baptized on behalf of their own old selves that are now dead: “Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?” (1 Corinthians 15:29, ESV). “We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.” (Romans 6:6, ESV)
+The meaning of baptism is that our old self (old sinful nature) died with Christ and our new self (new nature created after the likeness of God in true righteousness and holiness) was resurrected with Him. Believers are baptized on behalf of their own old selves that are now dead: “Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?” (1 Corinthians 15:29, ESV). “We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.” (Romans 6:6, ESV) Infant baptism contradicts the meaning of baptism because infants have not yet died with Christ and cannot be baptized on behalf of their old sinful nature that died.
 
 ## Nonresistance
 
