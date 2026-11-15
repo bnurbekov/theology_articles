@@ -97,7 +97,7 @@ However, the Lord Jesus Christ escaped when He was brought to the brow of the hi
 
 We are supposed to preach all that the Lord Jesus Christ commanded us (including the command not to take the sword) to all nations (including governments) (Matthew 28:20). It is the will of God that, as a result of the preaching of the Gospel, the nations will beat their swords into plowshares and no longer learn war during the Messianic or church age (Isaiah 2:4). (Note: we know that Isaiah 2:1-4 describes the Messianic age because of the parallels between Isaiah 2:4 and Isaiah 11:4-6, which describes the Messianic age.) At the same time, the book of Revelation teaches that the beast was given authority over every nation throughout the church age (Revelation 13:7). As a result, the vision from Isaiah 2, in which all nations will become peaceful, will be fully realized only in the new heaven and the new earth (Revelation 21:24-25). However, it is, and will be, partially realized in the church age.
 
-Government is a providential servant of God. God providentially uses the evil of violence committed by governments for His good purposes of justice. However, this does not cancel out the church's responsibility to preach against all evil, including the evil of violence committed by governments.
+Government is a providential servant of God, just like Assyria (Isaiah 10:5) and Babylon (Jeremiah 25:9) and King Cyrus (Isaiah 45:1). God providentially uses the evil of violence committed by governments for His good purposes of justice. However, this does not cancel out the church's responsibility to preach against all evil, including the evil of violence committed by governments.
 
 ## Refusal of oaths
 
