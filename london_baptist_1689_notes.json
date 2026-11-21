@@ -715,6 +715,270 @@
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
+    },
+    {
+      "id": "nl6n6506",
+      "kind": "edit",
+      "chapter": 1,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch1-p2",
+      "target": {
+        "exact": "Phillippians",
+        "prefix": "thians, Galatians, Ephesians, ",
+        "suffix": ", Colossians, 1 Thessalonians,",
+        "hash": "eaff4032"
+      },
+      "proposed_edit": {
+        "from": "Phillippians",
+        "to": "Philippians"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nhc5qgma",
+      "kind": "edit",
+      "chapter": 1,
+      "paragraph": 6,
+      "ref": "london_baptist_1689.md#ch1-p6",
+      "target": {
+        "exact": "men.Nevertheless",
+        "prefix": " the Spirit, or traditions of ",
+        "suffix": " we acknowledge the inward ill",
+        "hash": "7ea64beb"
+      },
+      "proposed_edit": {
+        "from": "men.Nevertheless",
+        "to": "men. Nevertheless"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nmsljouh",
+      "kind": "edit",
+      "chapter": 1,
+      "paragraph": 8,
+      "ref": "london_baptist_1689.md#ch1-p8",
+      "target": {
+        "exact": "the Nations being",
+        "prefix": "t was most generally known to ",
+        "suffix": " immediately inspired by God, ",
+        "hash": "88b903a7"
+      },
+      "proposed_edit": {
+        "from": "the Nations being",
+        "to": "the Nations) being"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nsxuxa5b",
+      "kind": "edit",
+      "chapter": 1,
+      "paragraph": 8,
+      "ref": "london_baptist_1689.md#ch1-p8",
+      "target": {
+        "exact": "unto them But",
+        "prefix": "e Church is finally to appeal ",
+        "suffix": " because these original tongue",
+        "hash": "c0ff4ae4"
+      },
+      "proposed_edit": {
+        "from": "unto them But",
+        "to": "unto them. But"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n7e32sah",
+      "kind": "edit",
+      "chapter": 11,
+      "paragraph": 4,
+      "ref": "london_baptist_1689.md#ch11-p4",
+      "target": {
+        "exact": "decreeto",
+        "prefix": ".** God did from all eternity ",
+        "suffix": " justifie all the Elect, and C",
+        "hash": "135b2910"
+      },
+      "proposed_edit": {
+        "from": "decreeto",
+        "to": "decree to"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n4lio67r",
+      "kind": "edit",
+      "chapter": 11,
+      "paragraph": 5,
+      "ref": "london_baptist_1689.md#ch11-p5",
+      "target": {
+        "exact": "justication",
+        "prefix": " never fall from the state of ",
+        "suffix": "; yet they may by their sins f",
+        "hash": "df0ab5f2"
+      },
+      "proposed_edit": {
+        "from": "justication",
+        "to": "justification"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nzo9r2g8",
+      "kind": "edit",
+      "chapter": 30,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch30-p1",
+      "target": {
+        "exact": "in his death confirmation",
+        "prefix": "orth the sacrifice of himself ",
+        "suffix": " of the faith of believers in ",
+        "hash": "94e87caf"
+      },
+      "proposed_edit": {
+        "from": "in his death confirmation",
+        "to": "in his death, confirmation"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "npxv3fky",
+      "kind": "edit",
+      "chapter": 11,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch11-p1",
+      "target": {
+        "exact": "beleiving",
+        "prefix": "ing faith it self, the act of ",
+        "suffix": ", or any other evangelical obe",
+        "hash": "2c92019a"
+      },
+      "proposed_edit": {
+        "from": "beleiving",
+        "to": "believing"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "new1dpyv",
+      "kind": "edit",
+      "chapter": 14,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch14-p1",
+      "target": {
+        "exact": "beleive",
+        "prefix": "reby the Elect are enabled to ",
+        "suffix": " to the saving of their souls,",
+        "hash": "6eff6dc1"
+      },
+      "proposed_edit": {
+        "from": "beleive",
+        "to": "believe"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "njjijuuq",
+      "kind": "edit",
+      "chapter": 14,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch14-p2",
+      "target": {
+        "exact": "beleived",
+        "prefix": " his Soul upon the truth thus ",
+        "suffix": "; and also acteth differently,",
+        "hash": "4eed2645"
+      },
+      "proposed_edit": {
+        "from": "beleived",
+        "to": "believed"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "noq0z2w7",
+      "kind": "edit",
+      "chapter": 14,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch14-p3",
+      "target": {
+        "exact": "beleivers",
+        "prefix": "and common grace of temporary ",
+        "suffix": "; and therefore though it may ",
+        "hash": "2c91f126"
+      },
+      "proposed_edit": {
+        "from": "beleivers",
+        "to": "believers"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nd7mvphn",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 11,
+      "ref": "london_baptist_1689.md#ch26-p11",
+      "target": {
+        "exact": "called by the Church",
+        "prefix": "rit for it, and approved, and ",
+        "suffix": ", may and ought to perform it.",
+        "hash": "d35a4ae3"
+      },
+      "proposed_edit": {
+        "from": "called by the Church",
+        "to": "called by the Elders, or (when permitted by the Elders) by the Church"
+      },
+      "note": "Consistency with the 26.8–26.9 edits (na65xpgb, nzweq1cv).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
     }
   ]
 }
