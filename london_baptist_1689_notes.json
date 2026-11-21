@@ -1,7 +1,7 @@
 {
   "document": "london_baptist_1689.md",
   "source": "https://raw.githubusercontent.com/bnurbekov/theology_articles/main/london_baptist_1689.md",
-  "generated": "2026-08-12T13:05:38.680Z",
+  "generated": "2026-11-21T08:00:39.066Z",
   "schema": "lbc-annotations/1",
   "annotations": [
     {
@@ -11,17 +11,18 @@
       "paragraph": 4,
       "ref": "london_baptist_1689.md#ch26-p4",
       "target": {
-        "exact": "is that Antichrist",
+        "exact": "is that Antichrist,",
         "prefix": "ny sense be head thereof, but ",
-        "suffix": ", that Man of sin, and Son of ",
-        "hash": "22bd11eb"
+        "suffix": " that Man of sin, and Son of p",
+        "hash": "7a5f4f77"
       },
       "proposed_edit": {
-        "from": "is that Antichrist",
-        "to": "is an antichrist, but not the final Antichrist. The final Antichrist will be revealed before the coming of the Lord Jesus Christ. The final Antichrist is"
+        "from": "is that Antichrist,",
+        "to": "is an Antichrist, but not the final Antichrist; the final Antichrist shall be revealed before the coming of the Lord Jesus Christ; and the final Antichrist is"
       },
       "note": "Error",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -43,6 +44,7 @@
       },
       "note": "The elders are appointed by an elder: Titus 1:5",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -60,10 +62,11 @@
       },
       "proposed_edit": {
         "from": "chosen by the like suffrage, and ",
-        "to": "chosen by the like suffrage, and "
+        "to": ""
       },
       "note": "Elders are appointed by an elder: Titus 1:5",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -85,6 +88,7 @@
       },
       "note": "synagōgēs is used for Jewish synagogues. ekklésia is used for churches (1 Corinthians 14:33)",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -114,6 +118,7 @@
       },
       "note": "Lord Jesus Christ told us to not take an oath at all: ““Again you have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform to the Lord what you have sworn.’ But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.” (Matthew 5:33-37)",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -126,15 +131,16 @@
       "target": {
         "exact": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
         "prefix": "ach Kingdome, and Commonwealth",
-        "suffix": "",
+        "suffix": "\n\n**3.** Civil Magistrates bei",
         "hash": "1bdde979"
       },
       "proposed_edit": {
         "from": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
-        "to": ""
+        "to": "."
       },
       "note": "The Lord Jesus Christ told us: “Then Jesus said to him, “Put your sword back into its place. For all who take the sword will perish by the sword.”” (Matthew 26:52)",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -164,6 +170,7 @@
       },
       "note": "Christ is our Sabbath: “Come to me, all who labor and are heavy laden, and I will give you rest.” (Matthew 11:28) Also, see Hebrew 4:3. The command to keep the Sabbath in the law pointed to Him: “Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath.” (Colossians 2:16)",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -185,6 +192,7 @@
       },
       "note": "Not found in the Scripture.",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -206,6 +214,7 @@
       },
       "note": "Covenant of Works is not found in the Scripture.",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
     },
@@ -227,8 +236,306 @@
       },
       "note": "Covenant of Grace is not found in the Scripture.",
       "tag": "doctrine",
+      "decision": "pending",
       "status": "ok",
       "created": "2026-08-12"
+    },
+    {
+      "id": "n3w3aeyh",
+      "kind": "edit",
+      "chapter": 4,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch4-p2",
+      "target": {
+        "exact": "the Law of God written in their hearts, and ",
+        "prefix": "ss, and true holyness; having ",
+        "suffix": "power to fulfill it; and yet u",
+        "hash": "1006d75f"
+      },
+      "proposed_edit": {
+        "from": "the Law of God written in their hearts, and ",
+        "to": ""
+      },
+      "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-11"
+    },
+    {
+      "id": "nriwqsq4",
+      "kind": "edit",
+      "chapter": 4,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch4-p2",
+      "target": {
+        "exact": "it",
+        "prefix": " hearts, and power to fulfill ",
+        "suffix": "; and yet under a possibility ",
+        "hash": "597842"
+      },
+      "proposed_edit": {
+        "from": "it",
+        "to": "the Commandments of God"
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-11"
+    },
+    {
+      "id": "ngzlydpd",
+      "kind": "edit",
+      "chapter": 4,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch4-p3",
+      "target": {
+        "exact": "Besides the Law written in their hearts, they",
+        "prefix": "",
+        "suffix": " received a command not to eat",
+        "hash": "d1672096"
+      },
+      "proposed_edit": {
+        "from": "Besides the Law written in their hearts, they",
+        "to": "They"
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-11"
+    },
+    {
+      "id": "n4u9zbuc",
+      "kind": "edit",
+      "chapter": 1,
+      "paragraph": 9,
+      "ref": "london_baptist_1689.md#ch1-p9",
+      "target": {
+        "exact": "(which is not manifold but one) ",
+        "prefix": "d full sense of any Scripture ",
+        "suffix": "it must be searched by other p",
+        "hash": "554e954d"
+      },
+      "proposed_edit": {
+        "from": "(which is not manifold but one) ",
+        "to": ""
+      },
+      "note": "It’s possible for a passage of Scripture to have multiple meanings",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-20"
+    },
+    {
+      "id": "nf4np4t9",
+      "kind": "edit",
+      "chapter": 11,
+      "paragraph": 6,
+      "ref": "london_baptist_1689.md#ch11-p6",
+      "target": {
+        "exact": "Tement",
+        "prefix": "on of Believers under the New ",
+        "suffix": ".",
+        "hash": "d3318612"
+      },
+      "proposed_edit": {
+        "from": "Tement",
+        "to": "Testament"
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-20"
+    },
+    {
+      "id": "ntqsa0xs",
+      "kind": "edit",
+      "chapter": 11,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch11-p1",
+      "target": {
+        "exact": "Righteousnnss",
+        "prefix": "ath, for their whole and sole ",
+        "suffix": ", they receiving, and resting ",
+        "hash": "b1fce121"
+      },
+      "proposed_edit": {
+        "from": "Righteousnnss",
+        "to": "Righteousness"
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-20"
+    },
+    {
+      "id": "nbg7q11i",
+      "kind": "edit",
+      "chapter": 10,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch10-p3",
+      "target": {
+        "exact": "Elect Infants dying in infancy, are regenerated and saved by Christ through the Spirit; who worketh when, and where, and how he pleaseth: so also are all other elect persons, who are uncapable of being outwardly called by the Ministry of the Word.",
+        "prefix": "",
+        "suffix": "",
+        "hash": "36cdb174"
+      },
+      "proposed_edit": {
+        "from": "Elect Infants dying in infancy, are regenerated and saved by Christ through the Spirit; who worketh when, and where, and how he pleaseth: so also are all other elect persons, who are uncapable of being outwardly called by the Ministry of the Word.",
+        "to": ""
+      },
+      "note": "It is not specified in Scripture what happens to infants. It is possible that no infants who die in infancy are saved and that all of them were predestined to reprobation, because no infant was regenerated before reaching the age at which they are able to comprehend and understand the Gospel (John the Baptist was an exception).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-20"
+    },
+    {
+      "id": "n6345iub",
+      "kind": "edit",
+      "chapter": 19,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch19-p1",
+      "target": {
+        "exact": ", written in his Heart",
+        "prefix": "m a Law of universal obedience",
+        "suffix": ", and a particular precept of ",
+        "hash": "5537d9ad"
+      },
+      "proposed_edit": {
+        "from": ", written in his Heart",
+        "to": ""
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "ntl740tw",
+      "kind": "edit",
+      "chapter": 19,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch19-p2",
+      "target": {
+        "exact": "that was first written in the heart of man, ",
+        "prefix": "The same Law ",
+        "suffix": "continued to be a perfect rule",
+        "hash": "16766f5f"
+      },
+      "proposed_edit": {
+        "from": "that was first written in the heart of man, ",
+        "to": ""
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nw4nrbv2",
+      "kind": "edit",
+      "chapter": 19,
+      "paragraph": 6,
+      "ref": "london_baptist_1689.md#ch19-p6",
+      "target": {
+        "exact": ", as a Covenant of Works,",
+        "prefix": "Believers be not under the Law",
+        "suffix": " to be thereby Justified or co",
+        "hash": "cc2c50db"
+      },
+      "proposed_edit": {
+        "from": ", as a Covenant of Works,",
+        "to": ""
+      },
+      "note": "The Covenant of Works is not found in the Scripture.",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n3mb25wk",
+      "kind": "edit",
+      "chapter": 19,
+      "paragraph": 6,
+      "ref": "london_baptist_1689.md#ch19-p6",
+      "target": {
+        "exact": " as a Covenant of Works",
+        "prefix": " not as due to them by the Law",
+        "suffix": "; so as mans doing Good and re",
+        "hash": "82641b83"
+      },
+      "proposed_edit": {
+        "from": " as a Covenant of Works",
+        "to": ""
+      },
+      "note": "",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "na65xpgb",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 8,
+      "ref": "london_baptist_1689.md#ch26-p8",
+      "target": {
+        "exact": "chosen and set apart by the Church (so called and gathered)",
+        "prefix": "ers appointed by Christ to be ",
+        "suffix": " for the peculiar Administrati",
+        "hash": "4a99bc64"
+      },
+      "proposed_edit": {
+        "from": "chosen and set apart by the Church (so called and gathered)",
+        "to": "chosen either by the Elders, or (when permitted by the Elders) by the Church (so called and gathered), and set apart by the Elders"
+      },
+      "note": "Elders may both choose and set apart Church officers (1 Timothy 5:22; Titus 1:5). When permitted by the Elders, the Church may also choose officers, whom the Elders then set apart (Acts 1:23; Acts 6:3–6).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nos4otwg",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 15,
+      "ref": "london_baptist_1689.md#ch26-p15",
+      "target": {
+        "exact": "reported to all the Churches concerned; howbeit these messengers assembled are not entrusted with any Church-power properly so called; or with any jurisdiction over the Churches themselves, to exercise any censures either over any Churches, or Persons: or to impose their determination on the Churches, or Officers",
+        "prefix": "t matter in difference, to be ",
+        "suffix": ".",
+        "hash": "fff5041"
+      },
+      "proposed_edit": {
+        "from": "reported to all the Churches concerned; howbeit these messengers assembled are not entrusted with any Church-power properly so called; or with any jurisdiction over the Churches themselves, to exercise any censures either over any Churches, or Persons: or to impose their determination on the Churches, or Officers",
+        "to": "delivered for observance to all the Churches holding communion together"
+      },
+      "note": "In Acts 16:4 decisions that had been reached by apostles and also elders were delivered for observance.",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n2tdy10y",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 15,
+      "ref": "london_baptist_1689.md#ch26-p15",
+      "target": {
+        "exact": "give their advice",
+        "prefix": "sengers meet to consider, and ",
+        "suffix": ", in or about that matter in d",
+        "hash": "972cc4f8"
+      },
+      "proposed_edit": {
+        "from": "give their advice",
+        "to": "come to their determination"
+      },
+      "note": "Acts 16:4 says that a decision was reached by apostles and also elders.",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
     }
   ]
 }
