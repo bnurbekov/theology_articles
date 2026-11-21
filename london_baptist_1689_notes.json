@@ -33,14 +33,14 @@
       "paragraph": 9,
       "ref": "london_baptist_1689.md#ch26-p9",
       "target": {
-        "exact": "chosen thereunto by the common suffrage of the Church it self; and ",
-        "prefix": ", in a Church, is, that he be ",
-        "suffix": "Solemnly set apart by Fasting ",
-        "hash": "805a303"
+        "exact": "the common suffrage of the Church it self",
+        "prefix": "hat he be chosen thereunto by ",
+        "suffix": "; and Solemnly set apart by Fa",
+        "hash": "b7ff6a3c"
       },
       "proposed_edit": {
-        "from": "chosen thereunto by the common suffrage of the Church it self; and ",
-        "to": ""
+        "from": "the common suffrage of the Church it self",
+        "to": "the Elders of the Church, or (when permitted by the Elders) by the Church it self"
       },
       "note": "The elders are appointed by an elder: Titus 1:5",
       "tag": "doctrine",
@@ -55,14 +55,14 @@
       "paragraph": 9,
       "ref": "london_baptist_1689.md#ch26-p9",
       "target": {
-        "exact": "chosen by the like suffrage, and ",
-        "prefix": "n; And of a Deacon that he be ",
-        "suffix": "set apart by Prayer, and the l",
-        "hash": "efd67a98"
+        "exact": "by the like suffrage",
+        "prefix": "of a Deacon that he be chosen ",
+        "suffix": ", and set apart by Prayer, and",
+        "hash": "350a1a79"
       },
       "proposed_edit": {
-        "from": "chosen by the like suffrage, and ",
-        "to": ""
+        "from": "by the like suffrage",
+        "to": "in like manner"
       },
       "note": "Elders are appointed by an elder: Titus 1:5",
       "tag": "doctrine",
@@ -290,14 +290,14 @@
       "paragraph": 3,
       "ref": "london_baptist_1689.md#ch4-p3",
       "target": {
-        "exact": "Besides the Law written in their hearts, they",
-        "prefix": "",
-        "suffix": " received a command not to eat",
-        "hash": "d1672096"
+        "exact": "the Law written in their hearts",
+        "prefix": "ct to change.\n\n**3.** Besides ",
+        "suffix": ", they received a command not ",
+        "hash": "b4fb71f1"
       },
       "proposed_edit": {
-        "from": "Besides the Law written in their hearts, they",
-        "to": "They"
+        "from": "the Law written in their hearts",
+        "to": "the Law of universal obedience"
       },
       "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
       "decision": "pending",
@@ -668,6 +668,50 @@
       },
       "note": "Typo.",
       "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n9f50kcz",
+      "kind": "edit",
+      "chapter": 7,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch7-p3",
+      "target": {
+        "exact": "This Covenant is revealed in the Gospel; first of all to Adam",
+        "prefix": " and able to believe.\n\n**3.** ",
+        "suffix": " in the promise of Salvation b",
+        "hash": "f1e32c08"
+      },
+      "proposed_edit": {
+        "from": "This Covenant is revealed in the Gospel; first of all to Adam",
+        "to": "The Gospel of this Covenant was revealed first of all to Adam"
+      },
+      "note": "Keeps 7.3 consistent with the New Covenant rename (nhg6k1qz): the Gospel was revealed to Adam; the covenant itself is completed in the new Testament. Cf. Hebrews 9:15.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nf0roa4w",
+      "kind": "edit",
+      "chapter": 7,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch7-p3",
+      "target": {
+        "exact": "and it is founded",
+        "prefix": "pleated in the new Testament; ",
+        "suffix": " in that Eternal Covenant tran",
+        "hash": "2e012e76"
+      },
+      "proposed_edit": {
+        "from": "and it is founded",
+        "to": "and this Covenant is founded"
+      },
+      "note": "Keeps 7.3 consistent with the New Covenant rename (nhg6k1qz): the Gospel was revealed to Adam; the covenant itself is completed in the new Testament. Cf. Hebrews 9:15.",
+      "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
