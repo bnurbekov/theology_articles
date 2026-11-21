@@ -299,10 +299,11 @@
         "from": "Besides the Law written in their hearts, they",
         "to": "They"
       },
-      "note": "",
+      "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-11"
+      "created": "2026-11-11",
+      "tag": "doctrine"
     },
     {
       "id": "n4u9zbuc",
@@ -405,10 +406,11 @@
         "from": ", written in his Heart",
         "to": ""
       },
-      "note": "",
+      "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-21"
+      "created": "2026-11-21",
+      "tag": "doctrine"
     },
     {
       "id": "ntl740tw",
@@ -426,10 +428,11 @@
         "from": "that was first written in the heart of man, ",
         "to": ""
       },
-      "note": "",
+      "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-21"
+      "created": "2026-11-21",
+      "tag": "doctrine"
     },
     {
       "id": "nw4nrbv2",
@@ -533,6 +536,138 @@
         "to": "come to their determination"
       },
       "note": "Acts 16:4 says that a decision was reached by apostles and also elders.",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nnpkxolh",
+      "kind": "edit",
+      "chapter": 14,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch14-p2",
+      "target": {
+        "exact": "Covenant of Grace",
+        "prefix": "ternal Life, by vertue of the ",
+        "suffix": ".\n\n**3.** This Faith although ",
+        "hash": "99f4117a"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Grace",
+        "to": "New Covenant"
+      },
+      "note": "Consistency with edit nhg6k1qz (7.2).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nz8jrshi",
+      "kind": "edit",
+      "chapter": 15,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch15-p2",
+      "target": {
+        "exact": "Covenant of Grace",
+        "prefix": "provocations; God hath in the ",
+        "suffix": ", mercifully provided that Bel",
+        "hash": "99f4117a"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Grace",
+        "to": "New Covenant"
+      },
+      "note": "Consistency with edit nhg6k1qz (7.2).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "ntpv2020",
+      "kind": "edit",
+      "chapter": 15,
+      "paragraph": 5,
+      "ref": "london_baptist_1689.md#ch15-p5",
+      "target": {
+        "exact": "Covenant of Grace",
+        "prefix": "th made through Christ in the ",
+        "suffix": ", for the preservation of Beli",
+        "hash": "99f4117a"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Grace",
+        "to": "New Covenant"
+      },
+      "note": "Consistency with edit nhg6k1qz (7.2).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n5fjhh9r",
+      "kind": "edit",
+      "chapter": 17,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch17-p2",
+      "target": {
+        "exact": "Covenant of Grace",
+        "prefix": "n them, and the nature of the ",
+        "suffix": " from all which ariseth also t",
+        "hash": "99f4117a"
+      },
+      "proposed_edit": {
+        "from": "Covenant of Grace",
+        "to": "New Covenant"
+      },
+      "note": "Consistency with edit nhg6k1qz (7.2).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nhgbn0cm",
+      "kind": "edit",
+      "chapter": 15,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch15-p2",
+      "target": {
+        "exact": "Beleivers",
+        "prefix": "ace, mercifully provided that ",
+        "suffix": " so sinning, and falling, be r",
+        "hash": "9d03d106"
+      },
+      "proposed_edit": {
+        "from": "Beleivers",
+        "to": "Believers"
+      },
+      "note": "Typo.",
+      "tag": "typo",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nq8o5t58",
+      "kind": "edit",
+      "chapter": 2,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch2-p1",
+      "target": {
+        "exact": "infinit",
+        "prefix": "hensible, Almighty, every way ",
+        "suffix": ", most holy, most wise, most f",
+        "hash": "9e6b36d6"
+      },
+      "proposed_edit": {
+        "from": "infinit",
+        "to": "infinite"
+      },
+      "note": "Typo.",
+      "tag": "typo",
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
