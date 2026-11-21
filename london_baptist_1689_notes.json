@@ -1023,6 +1023,72 @@
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
+    },
+    {
+      "id": "nraosffa",
+      "kind": "edit",
+      "chapter": 10,
+      "paragraph": 4,
+      "ref": "london_baptist_1689.md#ch10-p4",
+      "target": {
+        "exact": "Others not elected",
+        "prefix": "Ministry of the Word.\n\n**4.** ",
+        "suffix": ", although they may be called ",
+        "hash": "acbe3b61"
+      },
+      "proposed_edit": {
+        "from": "Others not elected",
+        "to": "Persons not elected"
+      },
+      "note": "Follows from the 10.3 deletion (nbg7q11i): \"Others\" no longer has a contrast.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n64h6f4e",
+      "kind": "edit",
+      "chapter": 21,
+      "paragraph": 0,
+      "ref": "london_baptist_1689.md#ch21",
+      "target": {
+        "exact": "Of Christian Liberty and Liberty of Conscience",
+        "prefix": "ion unto God.\n\n## Chapter 21: ",
+        "suffix": "\n\n**1.** The Liberty which Chr",
+        "hash": "d8929bb7"
+      },
+      "proposed_edit": {
+        "from": "Of Christian Liberty and Liberty of Conscience",
+        "to": "Of Christian Liberty"
+      },
+      "note": "Follows from the 21.2 deletion (noozbwma).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nzip889r",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 7,
+      "ref": "london_baptist_1689.md#ch26-p7",
+      "target": {
+        "exact": "executing of that power.",
+        "prefix": "e due and right exerting, and ",
+        "suffix": "\n\n**8.** A particular Church g",
+        "hash": "4f76bcb2"
+      },
+      "proposed_edit": {
+        "from": "executing of that power.",
+        "to": "executing of that power; which power each Church is to exercise in communion with the other Churches, observing the determinations of their assemblies."
+      },
+      "note": "Keeps 26.7 consistent with the 26.15 edits (nos4otwg, n2tdy10y): each Church exercises its power in communion with the others and observes assembly determinations. Cf. Acts 15:28; 16:4.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
     }
   ]
 }
