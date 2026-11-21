@@ -979,6 +979,50 @@
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
+    },
+    {
+      "id": "n0abnkia",
+      "kind": "edit",
+      "chapter": 19,
+      "paragraph": 2,
+      "ref": "london_baptist_1689.md#ch19-p2",
+      "target": {
+        "exact": "and the other six our duty to man.",
+        "prefix": "taining our duty towards God, ",
+        "suffix": "\n\n**3.** Besides this Law comm",
+        "hash": "c9622358"
+      },
+      "proposed_edit": {
+        "from": "and the other six our duty to man.",
+        "to": "and the other six our duty to man; save that the Sabbath therein commanded, being a shadow of things to come, is fulfilled in Christ, in whom we have rest."
+      },
+      "note": "Follows from the 22.7–8 deletion (ncdmlatp): the Sabbath is fulfilled in Christ. Cf. Colossians 2:16–17; Hebrews 4.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nvwj8tg2",
+      "kind": "edit",
+      "chapter": 22,
+      "paragraph": 0,
+      "ref": "london_baptist_1689.md#ch22",
+      "target": {
+        "exact": "Of Religious Worship and the Sabbath Day",
+        "prefix": " of our Life.\n\n## Chapter 22: ",
+        "suffix": "\n\n**1.** The light of Nature s",
+        "hash": "efa98120"
+      },
+      "proposed_edit": {
+        "from": "Of Religious Worship and the Sabbath Day",
+        "to": "Of Religious Worship"
+      },
+      "note": "Follows from the 22.7–8 deletion (ncdmlatp).",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
     }
   ]
 }
