@@ -123,3 +123,17 @@ of the homepage rather than in the ordered article list, regardless of
 whether it's mentioned in `ORDER`. `gospel_1.md`/`gospel_2.md` are
 ordinary articles despite the shared name prefix — only the bare
 `gospel[_lang].md` files get the banner treatment.
+
+## License
+
+This repository is dedicated to the public domain under the
+[CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+To the extent possible under law, the author has waived all copyright
+and related rights to the contents of this repository.
+
+You are free to copy, modify, distribute, use, and reuse the contents
+of this repository for any purpose, including commercial purposes,
+without permission or attribution.
+
+See the [LICENSE](LICENSE) file for details.
