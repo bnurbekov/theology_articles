@@ -1,7 +1,7 @@
 {
   "document": "london_baptist_1689.md",
   "source": "https://raw.githubusercontent.com/bnurbekov/theology_articles/main/london_baptist_1689.md",
-  "generated": "2026-11-21T08:00:39.066Z",
+  "generated": "2026-11-22T03:26:19.436Z",
   "schema": "lbc-annotations/1",
   "annotations": [
     {
@@ -40,7 +40,7 @@
       },
       "proposed_edit": {
         "from": "the common suffrage of the Church it self",
-        "to": "the Elders of the Church, or (when permitted by the Elders) by the Church it self"
+        "to": "the Elders of the Church, or (when commanded by the Elders) by the Church it self"
       },
       "note": "The elders are appointed by an elder: Titus 1:5",
       "tag": "doctrine",
@@ -114,7 +114,7 @@
       },
       "proposed_edit": {
         "from": "A lawful Oath is a part of religious worship, wherein the person swearing in Truth, Righteousness, and Judgement, solemnly calleth God to witness what he sweareth; and to judge him according to the Truth or falseness thereof.\n\nThe Name of God only is that by which men ought to swear; and therein it is to be used, with all Holy Fear and reverence, therefore to swear vainly or rashly by that glorious, and dreadful name; or to swear at all by any other thing, is sinful and to be abhorred; yet as in matter of weight and moment for confirmation of truth, and ending all strife, an Oath is warranted by the Word of God; so a lawful Oath being imposed, by lawful Authority, in such matters, ought to be taken.\n\nWhosoever taketh an Oath warranted by the Word of God, ought duely to consider the weightiness of so solemn an act; and therein to avouch nothing, but what he knoweth to be the truth; for that by rash, false, and vain Oaths the Lord is provoked, and for them this Land mournes.\n\nAn Oath is to be taken in the plain, and common sense of the words; without equivocation, or mental reservation.\n\nA Vow which is not to be made to any Creature, but to God alone, is to be made and performed with all Religious care, and faithfulness: But Popish Monastical Vows, of perpetual single life, professed poverty, and regular obedience, are so far from being degrees of higher perfection, that they are superstitious, and sinful snares, in which no Christian may intangle himself.",
-        "to": ""
+        "to": "The Lord Jesus Christ hath taught us that we ought not to take oaths at all. We ought not to swear oaths upon things which are beyond our power and authority; and since we have no power and authority even to make one hair of our head black or white, we ought not to swear oaths at all."
       },
       "note": "Lord Jesus Christ told us to not take an oath at all: ““Again you have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform to the Lord what you have sworn.’ But I say to you, Do not take an oath at all, either by heaven, for it is the throne of God, or by the earth, for it is his footstool, or by Jerusalem, for it is the city of the great King. And do not take an oath by your head, for you cannot make one hair white or black. Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.” (Matthew 5:33-37)",
       "tag": "doctrine",
@@ -129,16 +129,16 @@
       "paragraph": 2,
       "ref": "london_baptist_1689.md#ch24-p2",
       "target": {
-        "exact": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
-        "prefix": "ach Kingdome, and Commonwealth",
+        "exact": "It is lawful for Christians to Accept, and Execute the Office of a Magistrate when called thereunto; in the management whereof, as they ought especially to maintain Justice, and Peace, according to the wholsome Laws of each Kingdome, and Commonwealth: so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
+        "prefix": "shment of evil doers.\n\n**2.** ",
         "suffix": "\n\n**3.** Civil Magistrates bei",
-        "hash": "1bdde979"
+        "hash": "c8cba71e"
       },
       "proposed_edit": {
-        "from": ": so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
-        "to": "."
+        "from": "It is lawful for Christians to Accept, and Execute the Office of a Magistrate when called thereunto; in the management whereof, as they ought especially to maintain Justice, and Peace, according to the wholsome Laws of each Kingdome, and Commonwealth: so for that end they may lawfully now under the New Testament wage war upon just and necessary occasions.",
+        "to": "The Lord Jesus Christ hath commanded his Disciples not to resist evil, nor to take the Sword; for he himself did no violence, and hath said, that all who take the Sword shall perish with the Sword; yet it is lawful for them to escape out of danger, as he did."
       },
-      "note": "The Lord Jesus Christ told us: “Then Jesus said to him, “Put your sword back into its place. For all who take the sword will perish by the sword.”” (Matthew 26:52)",
+      "note": "The Lord Jesus Christ told us: “Then Jesus said to him, “Put your sword back into its place. For all who take the sword will perish by the sword.”” (Matthew 26:52)\n\nThe Lord Jesus Christ also taught us: “But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also.” (Matthew 5:39) Christ Himself did no violence (Isaiah 53:9), and we are commanded to imitate the apostle Paul, as he imitates Christ (1 Corinthians 11:1). However, the Lord Jesus Christ escaped when He was brought to the brow of the hill to be thrown down (Luke 4:29). Therefore, Christians are allowed to escape danger. The sentence on Christians holding the office of magistrate is removed, so that the Confession is silent on that question.",
       "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
@@ -300,10 +300,10 @@
         "to": "the Law of universal obedience"
       },
       "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
+      "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-11",
-      "tag": "doctrine"
+      "created": "2026-11-11"
     },
     {
       "id": "n4u9zbuc",
@@ -407,10 +407,10 @@
         "to": ""
       },
       "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
+      "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-21",
-      "tag": "doctrine"
+      "created": "2026-11-21"
     },
     {
       "id": "ntl740tw",
@@ -429,10 +429,10 @@
         "to": ""
       },
       "note": "The law of God was not written on the heart of Adam and Eve because the new covenant has not yet been given: “For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.” (Jeremiah 31:33)",
+      "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
-      "created": "2026-11-21",
-      "tag": "doctrine"
+      "created": "2026-11-21"
     },
     {
       "id": "nw4nrbv2",
@@ -490,9 +490,9 @@
       },
       "proposed_edit": {
         "from": "chosen and set apart by the Church (so called and gathered)",
-        "to": "chosen either by the Elders, or (when permitted by the Elders) by the Church (so called and gathered), and set apart by the Elders"
+        "to": "chosen either by the Elders, or (when commanded by the Elders) by the Church (so called and gathered), and set apart by the Elders"
       },
-      "note": "Elders may both choose and set apart Church officers (1 Timothy 5:22; Titus 1:5). When permitted by the Elders, the Church may also choose officers, whom the Elders then set apart (Acts 1:23; Acts 6:3–6).",
+      "note": "Elders may both choose and set apart Church officers (1 Timothy 5:22; Titus 1:5). When commanded by the Elders, the Church may also choose officers, whom the Elders then set apart (Acts 1:23; Acts 6:3–6). It seems that the Church chose because Peter issued a command (Acts 1:15–23).",
       "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
@@ -972,7 +972,7 @@
       },
       "proposed_edit": {
         "from": "called by the Church",
-        "to": "called by the Elders, or (when permitted by the Elders) by the Church"
+        "to": "called by the Elders, or (when commanded by the Elders) by the Church"
       },
       "note": "Consistency with the 26.8–26.9 edits (na65xpgb, nzweq1cv).",
       "tag": "doctrine",
@@ -1007,7 +1007,7 @@
       "kind": "edit",
       "chapter": 22,
       "paragraph": 0,
-      "ref": "london_baptist_1689.md#ch22",
+      "ref": "london_baptist_1689.md#ch22-p0",
       "target": {
         "exact": "Of Religious Worship and the Sabbath Day",
         "prefix": " of our Life.\n\n## Chapter 22: ",
@@ -1051,7 +1051,7 @@
       "kind": "edit",
       "chapter": 21,
       "paragraph": 0,
-      "ref": "london_baptist_1689.md#ch21",
+      "ref": "london_baptist_1689.md#ch21-p0",
       "target": {
         "exact": "Of Christian Liberty and Liberty of Conscience",
         "prefix": "ion unto God.\n\n## Chapter 21: ",
@@ -1085,6 +1085,94 @@
         "to": "executing of that power; which power each Church is to exercise in communion with the other Churches, observing the determinations of their assemblies."
       },
       "note": "Keeps 26.7 consistent with the 26.15 edits (nos4otwg, n2tdy10y): each Church exercises its power in communion with the others and observes assembly determinations. Cf. Acts 15:28; 16:4.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nqbsuifl",
+      "kind": "edit",
+      "chapter": 24,
+      "paragraph": 1,
+      "ref": "london_baptist_1689.md#ch24-p1",
+      "target": {
+        "exact": "and to this end hath armed them with the power of the Sword, for defence and encouragement of them that do good, and for the punishment of evil doers.",
+        "prefix": " glory, and the publick good; ",
+        "suffix": "\n\n**2.** It is lawful for Chri",
+        "hash": "d6e2afa4"
+      },
+      "proposed_edit": {
+        "from": "and to this end hath armed them with the power of the Sword, for defence and encouragement of them that do good, and for the punishment of evil doers.",
+        "to": "and they are his servants for the good of Justice, to shew his wrath against evil doers; yet the violence which they commit is evil in it self, and God, who turneth to good what men mean for evil, doth use it to the ends of his Justice."
+      },
+      "note": "Government is God's servant for the good of justice being shown against evil (Romans 13:4), but its own violence is evil; whatever they mean for evil, God uses for good (Genesis 50:20). God providentially uses governments, just like Assyria (Isaiah 10:5), Babylon (Jeremiah 25:9) and King Cyrus (Isaiah 45:1). God uses the evil of violence committed by governments for His good purposes of justice. However, this does not cancel out the church's responsibility to preach against all evil, including the evil of violence committed by governments.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "ng6n1rbv",
+      "kind": "edit",
+      "chapter": 24,
+      "paragraph": 3,
+      "ref": "london_baptist_1689.md#ch24-p3",
+      "target": {
+        "exact": "**3.** Civil Magistrates being set up",
+        "prefix": "ust and necessary occasions.\n\n",
+        "suffix": " by God, for the ends aforesai",
+        "hash": "dfa8721f"
+      },
+      "proposed_edit": {
+        "from": "**3.** Civil Magistrates being set up",
+        "to": "**3.** It is the duty of the Churches to preach all that Christ hath commanded, to all Nations, and to their Governments also, and to testify against all evil, even the evil of violence committed by Governments. For the Sword which Christ hath given to his Church is the Sword of the Spirit, which is the Word of God that judgeth our thoughts and intentions. The Lord Jesus Christ ruleth by judging by the Sword of the Spirit; and we rule with him as Kings, and to us he hath given authority to judge by the Sword of the Spirit. By this Sword God doth, in the preaching of the Gospel, restrain and judge evil; and this is a more excellent way of shewing Justice, because God can at the same time shew mercy to the sinner; and all who are saved do themselves preach the Gospel, instead of dying also. And it is the will of God that by the preaching of the Gospel Nations shall beat their swords into plowshares, and learn war no more; which, though the Beast hath authority over every Nation throughout this present age, is in part fulfilled therein, and shall be fully accomplished in the new heaven and the new earth.\n\n**4.** Civil Magistrates being set up"
+      },
+      "note": "We are supposed to preach all that the Lord Jesus Christ commanded us (including the command not to take the sword) to all nations (including governments) (Matthew 28:20). It is the will of God that, as a result of the preaching of the Gospel, the nations will beat their swords into plowshares and no longer learn war during the Messianic or church age (Isaiah 2:4). (We know that Isaiah 2:1-4 describes the Messianic age because of the parallels between Isaiah 2:4 and Isaiah 11:4-6, which describes the Messianic age.) At the same time, the book of Revelation teaches that the beast was given authority over every nation throughout the church age (Revelation 13:7). As a result, the vision from Isaiah 2, in which all nations will become peaceful, will be fully realized only in the new heaven and the new earth (Revelation 21:24-25). However, it is, and will be, partially realized in the church age. In the New Testament God uses the sword of the Spirit (the preaching of the Gospel; Ephesians 6:17; Hebrews 4:12; cf. 2 Corinthians 10:4) to restrain and judge evil. It is a more excellent way of showing justice because God can at the same time show mercy to the sinner. All who are saved themselves preach the Gospel instead of dying also. Also, the Lord Jesus Christ rules by judging by the sword of the Spirit (the word of God that judges our thoughts and intentions). We rule with him as kings and to us He gave authority to judge by the sword of the Spirit (Revelation 20:4). Revelation 19:15 makes the link between the Lord Jesus Christ ruling and judging by the sword of the Spirit: “From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron.” This edit inserts a new paragraph 24.3 and renumbers the old 24.3 as 24.4.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "n2ec1ohd",
+      "kind": "edit",
+      "chapter": 24,
+      "paragraph": 0,
+      "ref": "london_baptist_1689.md#ch24-p0",
+      "target": {
+        "exact": "Of the Civil Magistrate",
+        "prefix": "ngle himself.\n\n## Chapter 24: ",
+        "suffix": "\n\n**1.** God the supream Lord,",
+        "hash": "dac81be3"
+      },
+      "proposed_edit": {
+        "from": "Of the Civil Magistrate",
+        "to": "Of the Civil Magistrate, and of Nonresistance"
+      },
+      "note": "Follows from the new 24.2 and 24.3 on nonresistance.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-21"
+    },
+    {
+      "id": "nrvwauyx",
+      "kind": "edit",
+      "chapter": 26,
+      "paragraph": 11,
+      "ref": "london_baptist_1689.md#ch26-p11",
+      "target": {
+        "exact": "may and ought to perform it.",
+        "prefix": "ed, and called by the Church, ",
+        "suffix": "\n\n**12.** As all Believers are",
+        "hash": "1e9396af"
+      },
+      "proposed_edit": {
+        "from": "may and ought to perform it.",
+        "to": "may and ought to perform it in the Church; howbeit all who are saved ought, as they have opportunity, to preach the Gospel unto others, according to the command of Christ; and to speak the truth in love one to another within the Church."
+      },
+      "note": "Follows from the new 24.3: all who are saved preach the Gospel, so 26.11 distinguishes preaching in the Church by those called from every believer's preaching to others and speaking the truth in love to one another within the Church. Cf. Matthew 28:19–20; Acts 8:1, 4; Ephesians 4:15, 25; Colossians 3:16.",
       "tag": "doctrine",
       "decision": "pending",
       "status": "ok",
