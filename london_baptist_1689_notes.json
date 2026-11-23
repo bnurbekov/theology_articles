@@ -1177,6 +1177,28 @@
       "decision": "pending",
       "status": "ok",
       "created": "2026-11-21"
+    },
+    {
+      "id": "n4l9wdpx",
+      "kind": "edit",
+      "chapter": 8,
+      "paragraph": 6,
+      "ref": "london_baptist_1689.md#ch8-p6",
+      "target": {
+        "exact": "; and the Lamb slain from the foundation of the World",
+        "prefix": "hould bruise the Serpents head",
+        "suffix": ": Being the same yesterday, an",
+        "hash": "1868bd51"
+      },
+      "proposed_edit": {
+        "from": "; and the Lamb slain from the foundation of the World",
+        "to": ""
+      },
+      "note": "The phrase \"slain from the foundation of the world\" is the KJV rendering of Revelation 13:8. Most modern translations connect \"from the foundation of the world\" with \"written\" in the book of life (cf. Revelation 17:8), and the Greek can be read either way.",
+      "tag": "doctrine",
+      "decision": "pending",
+      "status": "ok",
+      "created": "2026-11-23"
     }
   ]
 }
